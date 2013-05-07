@@ -1,0 +1,46 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/branches/BLACKBIRD/make/stub_includes
+https://svn.java.net/svn/jogl~svn
+
+
+
+2004-12-20T20:04:27.000000Z
+181
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+cg
+dir
+
+common
+dir
+
+macosx
+dir
+
+opengl
+dir
+
+win32
+dir
+
+x11
+dir
+

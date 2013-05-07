@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1988/trunk/make/stub_includes/x11
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/x11/window-system.c
+END
+glxext.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/x11/glxext.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/x11/jni_md.h
+END
+window-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/1988/trunk/make/stub_includes/x11/window-lib.c
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/x11/jni.h
+END

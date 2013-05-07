@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/1955/branches/JOGL_2_SANDBOX/src/newt/native
+END
+KeyEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1918/branches/JOGL_2_SANDBOX/src/newt/native/KeyEvent.h
+END
+NewtMacWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1950/branches/JOGL_2_SANDBOX/src/newt/native/NewtMacWindow.h
+END
+WindowsWindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1946/branches/JOGL_2_SANDBOX/src/newt/native/WindowsWindow.c
+END
+EventListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/src/newt/native/EventListener.h
+END
+NewtMacWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1950/branches/JOGL_2_SANDBOX/src/newt/native/NewtMacWindow.m
+END
+InputEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1912/branches/JOGL_2_SANDBOX/src/newt/native/InputEvent.h
+END
+X11Window.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1935/branches/JOGL_2_SANDBOX/src/newt/native/X11Window.c
+END
+MacWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1955/branches/JOGL_2_SANDBOX/src/newt/native/MacWindow.m
+END
+KDWindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1924/branches/JOGL_2_SANDBOX/src/newt/native/KDWindow.c
+END
+MouseEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1913/branches/JOGL_2_SANDBOX/src/newt/native/MouseEvent.h
+END

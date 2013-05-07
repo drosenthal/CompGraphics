@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/gluegen/opengl
+END
+BuildStaticGLInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/gluegen/opengl/BuildStaticGLInfo.java
+END
+BuildComposablePipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/gluegen/opengl/BuildComposablePipeline.java
+END
+GLEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/gluegen/opengl/GLEmitter.java
+END
+GLCMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/gluegen/opengl/GLCMethodBindingEmitter.java
+END
+ConvertFromGL4Java.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/gluegen/opengl/ConvertFromGL4Java.java
+END
+GLJavaMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/gluegen/opengl/GLJavaMethodBindingEmitter.java
+END

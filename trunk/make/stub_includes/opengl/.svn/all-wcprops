@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1962/trunk/make/stub_includes/opengl
+END
+gl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/gl2.c
+END
+glu-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/glu-impl.c
+END
+gl3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/gl3.c
+END
+gles1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/gles1.c
+END
+glext-64bit-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/glext-64bit-types.h
+END
+gles2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/gles2.c
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/glu.c
+END
+cg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/cg.c
+END
+macosx-window-system.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/macosx-window-system.h
+END

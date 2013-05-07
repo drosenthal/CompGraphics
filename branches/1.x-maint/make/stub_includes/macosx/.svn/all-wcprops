@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/macosx
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/macosx/window-system.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/macosx/jni_md.h
+END
+cglext.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/macosx/cglext.c
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/macosx/jni.h
+END

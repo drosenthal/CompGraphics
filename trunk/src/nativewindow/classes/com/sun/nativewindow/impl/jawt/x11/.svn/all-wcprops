@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/x11
+END
+X11JAWTWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/x11/X11JAWTWindow.java
+END
+X11SunJDKReflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/x11/X11SunJDKReflection.java
+END

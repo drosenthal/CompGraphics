@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make
+END
+cgl-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/cgl-macosx.cfg
+END
+gl-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-macosx.cfg
+END
+glxext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glxext.cfg
+END
+build-gluegen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/build-gluegen.xml
+END
+gl-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-common.cfg
+END
+gl-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-win32.cfg
+END
+native-taglet.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/native-taglet.properties
+END
+cglext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/cglext.cfg
+END
+gl-impl-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-impl-CustomCCode.c
+END
+glu-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glu-CustomJavaCode.java
+END
+gl-win32-nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-win32-nsig.cfg
+END
+gl-common-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-common-x11.cfg
+END
+glu-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glu-win32.cfg
+END
+jawt-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/jawt-x11.cfg
+END
+gl-common-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-common-macosx.cfg
+END
+gl-x11-nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-x11-nsig.cfg
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/build.xml
+END
+cg-common-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/cg-common-CustomJavaCode.java
+END
+joglRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/joglRIversion
+END
+glu-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glu-macosx.cfg
+END
+gl-macosx-nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-macosx-nsig.cfg
+END
+nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/nsig.cfg
+END
+jawt-DrawingSurfaceInfo-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/jawt-DrawingSurfaceInfo-CustomJavaCode.java
+END
+glu-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glu-common.cfg
+END
+wgl-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/wgl-CustomCCode.c
+END
+gl-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-x11.cfg
+END
+build-staticglgen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/build-staticglgen.xml
+END
+README-zip-bundles.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/README-zip-bundles.txt
+END
+cg-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/cg-common.cfg
+END
+gl-impl-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-impl-CustomJavaCode.java
+END
+joglversion
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/joglversion
+END
+spec-overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/spec-overview.html
+END
+glu-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glu-x11.cfg
+END
+validate-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/validate-properties.xml
+END
+wingdi-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/wingdi-win32.cfg
+END
+jawt-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/jawt-macosx.cfg
+END
+glx-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glx-x11.cfg
+END
+gl-common-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/gl-common-win32.cfg
+END
+jogl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/jogl.properties
+END
+jawt-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/jawt-CustomJavaCode.java
+END
+jawt-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/jawt-win32.cfg
+END
+glx-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/glx-CustomCCode.c
+END
+wglext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/make/wglext.cfg
+END

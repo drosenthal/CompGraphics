@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl
+END
+GLUtesselatorCallbackAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLUtesselatorCallbackAdapter.java
+END
+GLPbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLPbuffer.java
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLException.java
+END
+GLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLEventListener.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/Animator.java
+END
+GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLDrawableFactory.java
+END
+GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLDrawable.java
+END
+GLUtesselatorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLUtesselatorCallback.java
+END
+GLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLCapabilitiesChooser.java
+END
+DefaultGLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/DefaultGLCapabilitiesChooser.java
+END
+GLJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLJPanel.java
+END
+GLUtesselator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLUtesselator.java
+END
+GLCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLCanvas.java
+END
+GLCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLCapabilities.java
+END
+GLContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLContextHelper.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/Version.java
+END
+ComponentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/ComponentEvents.java
+END
+GLUquadric.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/GLUquadric.java
+END

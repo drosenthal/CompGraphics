@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl
+END
+GLContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl/GLContextFactory.java
+END
+FunctionAvailabilityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl/FunctionAvailabilityCache.java
+END
+JAWT_PlatformInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl/JAWT_PlatformInfo.java
+END
+GLPbufferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl/GLPbufferImpl.java
+END
+GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl/GLContext.java
+END
+GLDrawableHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl/GLDrawableHelper.java
+END
+NativeLibLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/impl/NativeLibLoader.java
+END

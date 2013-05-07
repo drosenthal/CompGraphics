@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/com/sun/opengl/util/texture
+END
+TextureIO.java.javase
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/texture/TextureIO.java.javase
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/com/sun/opengl/util/texture/Texture.java
+END
+TextureCoords.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/texture/TextureCoords.java
+END
+TextureData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/texture/TextureData.java
+END
+TextureIO.java.javame_cdc_fp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/texture/TextureIO.java.javame_cdc_fp
+END

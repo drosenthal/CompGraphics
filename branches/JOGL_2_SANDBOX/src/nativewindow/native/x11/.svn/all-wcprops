@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1879/branches/JOGL_2_SANDBOX/src/nativewindow/native/x11
+END
+Xinerama.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1879/branches/JOGL_2_SANDBOX/src/nativewindow/native/x11/Xinerama.c
+END
+panoramiXext.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1879/branches/JOGL_2_SANDBOX/src/nativewindow/native/x11/panoramiXext.h
+END
+Xinerama.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1879/branches/JOGL_2_SANDBOX/src/nativewindow/native/x11/Xinerama.h
+END
+panoramiXproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1879/branches/JOGL_2_SANDBOX/src/nativewindow/native/x11/panoramiXproto.h
+END
+extutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1879/branches/JOGL_2_SANDBOX/src/nativewindow/native/x11/extutil.h
+END
+XineramaHelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1879/branches/JOGL_2_SANDBOX/src/nativewindow/native/x11/XineramaHelper.c
+END

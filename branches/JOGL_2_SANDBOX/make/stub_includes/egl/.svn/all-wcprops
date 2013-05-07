@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1925/branches/JOGL_2_SANDBOX/make/stub_includes/egl
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1790/branches/JOGL_2_SANDBOX/make/stub_includes/egl/window-system.c
+END
+window-system-ext.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1790/branches/JOGL_2_SANDBOX/make/stub_includes/egl/window-system-ext.c
+END

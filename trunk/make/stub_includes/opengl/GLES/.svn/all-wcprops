@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/GLES
+END
+glplatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/GLES/glplatform.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/GLES/glext.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/GLES/glu.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/opengl/GLES/gl.h
+END

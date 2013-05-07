@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/x11
+END
+X11NativeWindowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/x11/X11NativeWindowFactory.java
+END
+X11Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/x11/X11Util.java
+END
+X11GraphicsConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/x11/X11GraphicsConfigurationFactory.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl
+END
+FunctionAvailabilityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/FunctionAvailabilityCache.java
+END
+GLContextShareSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLContextShareSet.java
+END
+JAWT_PlatformInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/JAWT_PlatformInfo.java
+END
+GLPbufferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLPbufferImpl.java
+END
+GLContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLContextImpl.java
+END
+GLDrawableFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLDrawableFactoryImpl.java
+END
+GLDrawableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLDrawableImpl.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/Util.java
+END
+NativeLibLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/NativeLibLoader.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/Project.java
+END
+GLContextLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLContextLock.java
+END
+GLUquadricImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLUquadricImpl.java
+END
+Java2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/Java2D.java
+END
+InternalBufferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/InternalBufferUtils.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/Debug.java
+END
+GLDrawableHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/GLDrawableHelper.java
+END

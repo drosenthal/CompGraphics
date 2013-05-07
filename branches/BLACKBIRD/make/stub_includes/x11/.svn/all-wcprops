@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/make/stub_includes/x11
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/make/stub_includes/x11/window-system.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/make/stub_includes/x11/jni_md.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/make/stub_includes/x11/jni.h
+END

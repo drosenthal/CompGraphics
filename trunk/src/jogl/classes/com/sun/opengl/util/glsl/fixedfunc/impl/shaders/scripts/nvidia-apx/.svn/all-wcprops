@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/scripts/nvidia-apx
+END
+glslc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/scripts/nvidia-apx/glslc.bat
+END
+glslc-ff.bat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/scripts/nvidia-apx/glslc-ff.bat
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1630/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES
+END
+glplatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1630/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES/glplatform.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1630/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES/glext.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1630/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES/glu.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1630/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES/gl.h
+END

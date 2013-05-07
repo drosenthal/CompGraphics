@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl
+END
+EGLES1DynamicLookupHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLES1DynamicLookupHelper.java
+END
+EGLES2DynamicLookupHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLES2DynamicLookupHelper.java
+END
+EGLDynamicLookupHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLDynamicLookupHelper.java
+END
+EGLExternalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLExternalContext.java
+END
+EGLOnscreenContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLOnscreenContext.java
+END
+EGLPbufferContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLPbufferContext.java
+END
+EGLGraphicsConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLGraphicsConfigurationFactory.java
+END
+EGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLDrawable.java
+END
+EGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLContext.java
+END
+EGLPbufferDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLPbufferDrawable.java
+END
+EGLOnscreenDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLOnscreenDrawable.java
+END
+EGLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLDrawableFactory.java
+END
+EGLGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/1932/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/egl/EGLGraphicsConfiguration.java
+END

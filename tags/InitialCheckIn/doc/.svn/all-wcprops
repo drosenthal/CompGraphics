@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jogl~svn/!svn/ver/6/tags/InitialCheckIn/doc
+END
+HowToBuild.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/6/tags/InitialCheckIn/doc/HowToBuild.html
+END
+differences-from-gl4java.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/6/tags/InitialCheckIn/doc/differences-from-gl4java.txt
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jogl~svn/!svn/ver/6/tags/InitialCheckIn/doc/TODO.txt
+END

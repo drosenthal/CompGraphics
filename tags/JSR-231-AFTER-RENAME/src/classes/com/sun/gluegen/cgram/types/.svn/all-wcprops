@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types
+END
+TypeDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/TypeDictionary.java
+END
+FunctionSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/FunctionSymbol.java
+END
+VoidType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/VoidType.java
+END
+DoubleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/DoubleType.java
+END
+CVAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/CVAttributes.java
+END
+IntType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/IntType.java
+END
+BitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/BitType.java
+END
+CompoundType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/CompoundType.java
+END
+PrimitiveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/PrimitiveType.java
+END
+EnumType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/EnumType.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/Type.java
+END
+MachineDescription64Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/MachineDescription64Bit.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/Field.java
+END
+MachineDescription32Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/MachineDescription32Bit.java
+END
+CompoundTypeKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/CompoundTypeKind.java
+END
+PointerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/PointerType.java
+END
+FloatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/FloatType.java
+END
+MachineDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/MachineDescription.java
+END
+TypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/TypeVisitor.java
+END
+ArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/ArrayType.java
+END
+FunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/cgram/types/FunctionType.java
+END

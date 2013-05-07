@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl
+END
+GLUtesselatorCallbackAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLUtesselatorCallbackAdapter.java
+END
+GLPbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLPbuffer.java
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLException.java
+END
+GLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLEventListener.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/Animator.java
+END
+GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLDrawableFactory.java
+END
+GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLDrawable.java
+END
+GLUtesselatorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLUtesselatorCallback.java
+END
+GLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLCapabilitiesChooser.java
+END
+DefaultGLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/DefaultGLCapabilitiesChooser.java
+END
+GLJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLJPanel.java
+END
+GLUtesselator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLUtesselator.java
+END
+GLCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLCanvas.java
+END
+GLCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLCapabilities.java
+END
+GLContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLContextHelper.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/Version.java
+END
+ComponentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/ComponentEvents.java
+END
+GLUquadric.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/GLUquadric.java
+END

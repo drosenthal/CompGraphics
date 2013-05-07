@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/jogl~svn/!svn/ver/1959/trunk/doxygen
+END
+doxygen-all-dev.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/doxygen/doxygen-all-dev.cfg
+END
+doxygen-jogl-spec.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jogl~svn/!svn/ver/1959/trunk/doxygen/doxygen-jogl-spec.cfg
+END
+doxygen-all-pub.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/doxygen/doxygen-all-pub.cfg
+END

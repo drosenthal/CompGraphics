@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/386/branches/JSR-231/src/classes/com/sun/opengl/impl/x11
+END
+X11GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/386/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11GLDrawableFactory.java
+END
+X11PbufferGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11PbufferGLDrawable.java
+END
+X11GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11GLDrawable.java
+END
+X11SunJDKReflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11SunJDKReflection.java
+END
+X11ExternalGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11ExternalGLContext.java
+END
+X11OffscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/361/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11OffscreenGLContext.java
+END
+X11OnscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11OnscreenGLContext.java
+END
+X11ExternalGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11ExternalGLDrawable.java
+END
+X11OffscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11OffscreenGLDrawable.java
+END
+X11OnscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11OnscreenGLDrawable.java
+END
+X11GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/384/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11GLContext.java
+END
+X11PbufferGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/x11/X11PbufferGLContext.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jogl~svn/!svn/ver/1988/trunk/src/newt/native
+END
+KeyEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/native/KeyEvent.h
+END
+NewtMacWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/native/NewtMacWindow.h
+END
+WindowsWindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/native/WindowsWindow.c
+END
+EventListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/native/EventListener.h
+END
+NewtMacWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/native/NewtMacWindow.m
+END
+InputEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/native/InputEvent.h
+END
+X11Window.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1988/trunk/src/newt/native/X11Window.c
+END
+MacWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/native/MacWindow.m
+END
+KDWindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/native/KDWindow.c
+END
+MouseEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/native/MouseEvent.h
+END

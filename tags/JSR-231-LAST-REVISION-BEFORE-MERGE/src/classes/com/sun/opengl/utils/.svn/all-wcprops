@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils
+END
+FPSAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/FPSAnimator.java
+END
+GLUTBitmapTimesRoman24.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTBitmapTimesRoman24.java
+END
+BitmapCharRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/BitmapCharRec.java
+END
+GLUTBitmapTimesRoman10.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTBitmapTimesRoman10.java
+END
+StrokeFontRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/StrokeFontRec.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/Animator.java
+END
+GLUTBitmapHelvetica18.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTBitmapHelvetica18.java
+END
+GLUT.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUT.java
+END
+StrokeCharRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/StrokeCharRec.java
+END
+GLUTStrokeRoman.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTStrokeRoman.java
+END
+GLUTBitmapHelvetica12.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTBitmapHelvetica12.java
+END
+GLUTStrokeMonoRoman.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTStrokeMonoRoman.java
+END
+GLUTBitmapHelvetica10.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTBitmapHelvetica10.java
+END
+CoordRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/CoordRec.java
+END
+StrokeRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/StrokeRec.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/Version.java
+END
+GLUTBitmap9x15.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTBitmap9x15.java
+END
+GLUTBitmap8x13.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/GLUTBitmap8x13.java
+END
+BitmapFontRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/BitmapFontRec.java
+END
+BufferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/utils/BufferUtils.java
+END

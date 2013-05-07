@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/x11
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/x11/window-system.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/x11/jni_md.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/x11/jni.h
+END

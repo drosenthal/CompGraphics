@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jogl~svn/!svn/ver/1988/trunk/src/nativewindow/native
+END
+JVM_Tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1988/trunk/src/nativewindow/native/JVM_Tool.c
+END
+JAWT_DrawingSurfaceInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/JAWT_DrawingSurfaceInfo.c
+END

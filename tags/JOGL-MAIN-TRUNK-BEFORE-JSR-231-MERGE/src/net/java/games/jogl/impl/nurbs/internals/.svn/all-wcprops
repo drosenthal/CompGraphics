@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals
+END
+CachingEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/CachingEvaluator.java
+END
+ArcTesselator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/ArcTesselator.java
+END
+BasicSurfaceEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/BasicSurfaceEvaluator.java
+END
+BasicCurveEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/BasicCurveEvaluator.java
+END
+NurbsConsts.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/NurbsConsts.java
+END
+Subdivider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/Subdivider.java
+END
+Defines.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/Defines.java
+END
+Bin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/Bin.java
+END
+Backend.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/Backend.java
+END
+BezierArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/BezierArc.java
+END
+NurbsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/NurbsException.java
+END
+Arc.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/jogl/impl/nurbs/internals/Arc.java
+END

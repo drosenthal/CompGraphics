@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/106/branches/jogl-1-1-temp-branch/src/net/java/games/jogl
+END
+GLUtesselatorCallbackAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLUtesselatorCallbackAdapter.java
+END
+GLPbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLPbuffer.java
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLException.java
+END
+GLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLEventListener.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/Animator.java
+END
+GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/97/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLDrawableFactory.java
+END
+GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLDrawable.java
+END
+GLUtesselatorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLUtesselatorCallback.java
+END
+GLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/97/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLCapabilitiesChooser.java
+END
+DefaultGLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/97/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/DefaultGLCapabilitiesChooser.java
+END
+GLJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/97/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLJPanel.java
+END
+GLUtesselator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLUtesselator.java
+END
+GLCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/97/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLCanvas.java
+END
+GLCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLCapabilities.java
+END
+GLContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/GLContextHelper.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/106/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/Version.java
+END
+ComponentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/jogl/ComponentEvents.java
+END

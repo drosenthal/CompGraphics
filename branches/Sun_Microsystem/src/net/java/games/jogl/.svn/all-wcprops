@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl
+END
+GLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLCapabilitiesChooser.java
+END
+DefaultGLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/DefaultGLCapabilitiesChooser.java
+END
+GLJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLJPanel.java
+END
+GLCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLCanvas.java
+END
+GLCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLCapabilities.java
+END
+GLPbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLPbuffer.java
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLException.java
+END
+GLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLEventListener.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/Animator.java
+END
+GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLDrawableFactory.java
+END
+ComponentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/ComponentEvents.java
+END
+GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/src/net/java/games/jogl/GLDrawable.java
+END

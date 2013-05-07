@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/gluegen/runtime
+END
+StructAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/gluegen/runtime/StructAccessor.java
+END
+ProcAddressHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/gluegen/runtime/ProcAddressHelper.java
+END
+BufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/gluegen/runtime/BufferFactory.java
+END

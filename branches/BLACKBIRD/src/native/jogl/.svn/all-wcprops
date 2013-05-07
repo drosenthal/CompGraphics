@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/src/native/jogl
+END
+ContextUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/src/native/jogl/ContextUpdater.h
+END
+MacOSXWindowSystemInterface.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/src/native/jogl/MacOSXWindowSystemInterface.m
+END
+BufferUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/src/native/jogl/BufferUtils.c
+END
+ContextUpdater.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/src/native/jogl/ContextUpdater.m
+END
+InternalBufferUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/src/native/jogl/InternalBufferUtils.c
+END
+JAWT_DrawingSurfaceInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/src/native/jogl/JAWT_DrawingSurfaceInfo.c
+END

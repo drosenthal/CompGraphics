@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/native/jogl
+END
+ContextUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/native/jogl/ContextUpdater.h
+END
+MacOSXWindowSystemInterface.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/native/jogl/MacOSXWindowSystemInterface.m
+END
+BufferUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/native/jogl/BufferUtils.c
+END
+ContextUpdater.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/native/jogl/ContextUpdater.m
+END
+InternalBufferUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/native/jogl/InternalBufferUtils.c
+END
+JAWT_DrawingSurfaceInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/native/jogl/JAWT_DrawingSurfaceInfo.c
+END

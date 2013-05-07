@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1956/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow
+END
+DefaultGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jogl~svn/!svn/ver/1932/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/DefaultGraphicsConfiguration.java
+END
+AbstractGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/AbstractGraphicsConfiguration.java
+END
+ToolkitLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/ToolkitLock.java
+END
+NativeWindowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/1881/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/NativeWindowException.java
+END
+NativeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/NativeWindow.java
+END
+CapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/1930/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/CapabilitiesChooser.java
+END
+DefaultCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jogl~svn/!svn/ver/1884/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/DefaultCapabilitiesChooser.java
+END
+AbstractGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/AbstractGraphicsDevice.java
+END
+NativeWindowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/1956/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/NativeWindowFactory.java
+END
+DefaultGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/DefaultGraphicsDevice.java
+END
+GraphicsConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jogl~svn/!svn/ver/1930/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/GraphicsConfigurationFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/package.html
+END
+AbstractGraphicsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/AbstractGraphicsScreen.java
+END
+DefaultGraphicsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/DefaultGraphicsScreen.java
+END
+Capabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/Capabilities.java
+END

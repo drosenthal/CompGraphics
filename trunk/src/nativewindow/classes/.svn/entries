@@ -1,0 +1,42 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/trunk/src/nativewindow/classes
+https://svn.java.net/svn/jogl~svn
+delete
+
+
+2009-07-04T04:21:08.335206Z
+2022
+sgoethel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+com
+dir
+
+
+
+delete
+
+javax
+dir
+
+
+
+delete
+

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator
+END
+PriorityQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/PriorityQ.java
+END
+GLUface.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/GLUface.java
+END
+Mesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/Mesh.java
+END
+Sweep.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/Sweep.java
+END
+PriorityQSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/PriorityQSort.java
+END
+Normal.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/Normal.java
+END
+CachedVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/CachedVertex.java
+END
+GLUhalfEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/GLUhalfEdge.java
+END
+TessState.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/TessState.java
+END
+GLUtesselatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/GLUtesselatorImpl.java
+END
+GLUmesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/GLUmesh.java
+END
+Geom.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/Geom.java
+END
+ActiveRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/ActiveRegion.java
+END
+PriorityQHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/PriorityQHeap.java
+END
+DictNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/DictNode.java
+END
+Render.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/Render.java
+END
+Dict.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/Dict.java
+END
+TessMono.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/TessMono.java
+END
+GLUvertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/jogl/impl/tesselator/GLUvertex.java
+END

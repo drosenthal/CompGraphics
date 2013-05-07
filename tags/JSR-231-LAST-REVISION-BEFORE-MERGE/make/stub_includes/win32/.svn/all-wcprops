@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/make/stub_includes/win32
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/make/stub_includes/win32/window-system.c
+END
+wingdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/make/stub_includes/win32/wingdi.h
+END
+wglext.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/make/stub_includes/win32/wglext.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/make/stub_includes/win32/jni_md.h
+END
+windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/make/stub_includes/win32/windows.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/make/stub_includes/win32/jni.h
+END

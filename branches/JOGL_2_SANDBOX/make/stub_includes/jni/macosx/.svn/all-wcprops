@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx
+END
+jvmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx/jvmdi.h
+END
+jvmpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx/jvmpi.h
+END
+JDWPCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx/JDWPCommands.h
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx/jni_md.h
+END
+AWTCocoaComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx/AWTCocoaComponent.h
+END
+jawt_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx/jawt_md.h
+END
+JDWP.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/macosx/JDWP.h
+END

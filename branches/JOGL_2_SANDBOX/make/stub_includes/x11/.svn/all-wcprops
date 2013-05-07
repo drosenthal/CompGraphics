@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1825/branches/JOGL_2_SANDBOX/make/stub_includes/x11
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1665/branches/JOGL_2_SANDBOX/make/stub_includes/x11/window-system.c
+END
+glxext.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/stub_includes/x11/glxext.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/stub_includes/x11/jni_md.h
+END
+window-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1825/branches/JOGL_2_SANDBOX/make/stub_includes/x11/window-lib.c
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/stub_includes/x11/jni.h
+END

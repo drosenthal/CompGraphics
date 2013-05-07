@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/2022/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt
+END
+JAWTNativeLibLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/2022/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWTNativeLibLoader.java
+END
+JAWT_PlatformInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWT_PlatformInfo.java
+END
+JAWTUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/2021/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWTUtil.java
+END
+JAWTWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWTWindow.java
+END

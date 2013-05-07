@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/make/stub_includes/x11
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/make/stub_includes/x11/window-system.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/make/stub_includes/x11/jni_md.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/make/stub_includes/x11/jni.h
+END

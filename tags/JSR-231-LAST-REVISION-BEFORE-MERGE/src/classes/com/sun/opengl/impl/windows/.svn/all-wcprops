@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows
+END
+WindowsPbufferGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsPbufferGLDrawable.java
+END
+WindowsPbufferGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsPbufferGLContext.java
+END
+WindowsOnscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsOnscreenGLContext.java
+END
+WindowsExternalGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsExternalGLContext.java
+END
+WindowsOffscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsOffscreenGLDrawable.java
+END
+WindowsDummyGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsDummyGLDrawable.java
+END
+WindowsGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsGLContext.java
+END
+WindowsGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsGLDrawable.java
+END
+WindowsGLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsGLDrawableFactory.java
+END
+WindowsOffscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsOffscreenGLContext.java
+END
+WindowsExternalGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsExternalGLDrawable.java
+END
+WindowsOnscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jogl~svn/!svn/ver/400/tags/JSR-231-LAST-REVISION-BEFORE-MERGE/src/classes/com/sun/opengl/impl/windows/WindowsOnscreenGLDrawable.java
+END

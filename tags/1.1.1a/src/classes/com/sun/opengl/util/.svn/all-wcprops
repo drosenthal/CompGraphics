@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util
+END
+FPSAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/FPSAnimator.java
+END
+GLUTBitmapTimesRoman24.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTBitmapTimesRoman24.java
+END
+BitmapCharRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/BitmapCharRec.java
+END
+GLUTBitmapTimesRoman10.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTBitmapTimesRoman10.java
+END
+StrokeFontRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/StrokeFontRec.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/Animator.java
+END
+Gamma.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/Gamma.java
+END
+Screenshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/Screenshot.java
+END
+GLUTBitmapHelvetica18.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTBitmapHelvetica18.java
+END
+GLUT.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUT.java
+END
+JOGLAppletLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/JOGLAppletLauncher.java
+END
+StrokeCharRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/StrokeCharRec.java
+END
+BufferUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/BufferUtil.java
+END
+StreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/StreamUtil.java
+END
+GLUTStrokeRoman.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTStrokeRoman.java
+END
+TGAWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/TGAWriter.java
+END
+GLUTBitmapHelvetica12.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTBitmapHelvetica12.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/FileUtil.java
+END
+GLUTStrokeMonoRoman.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTStrokeMonoRoman.java
+END
+ImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/ImageUtil.java
+END
+GLUTBitmapHelvetica10.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTBitmapHelvetica10.java
+END
+CoordRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/CoordRec.java
+END
+StrokeRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/StrokeRec.java
+END
+GLUTBitmap9x15.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTBitmap9x15.java
+END
+GLUTBitmap8x13.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/GLUTBitmap8x13.java
+END
+BitmapFontRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/BitmapFontRec.java
+END
+TileRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/util/TileRenderer.java
+END

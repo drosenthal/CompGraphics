@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/native/macosx
+END
+ContextUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/native/macosx/ContextUpdater.h
+END
+MacOSXWindowSystemInterface.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/native/macosx/MacOSXWindowSystemInterface.m
+END
+ContextUpdater.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/native/macosx/ContextUpdater.m
+END

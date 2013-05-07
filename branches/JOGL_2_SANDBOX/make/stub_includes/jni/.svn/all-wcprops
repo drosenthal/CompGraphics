@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni
+END
+jvmti.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/jvmti.h
+END
+jdwpTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/jdwpTransport.h
+END
+classfile_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/classfile_constants.h
+END
+jawt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/jawt.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/jni.h
+END

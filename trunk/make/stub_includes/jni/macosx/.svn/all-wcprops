@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx
+END
+jvmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx/jvmdi.h
+END
+jvmpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx/jvmpi.h
+END
+JDWPCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx/JDWPCommands.h
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx/jni_md.h
+END
+AWTCocoaComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx/AWTCocoaComponent.h
+END
+jawt_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx/jawt_md.h
+END
+JDWP.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1959/trunk/make/stub_includes/jni/macosx/JDWP.h
+END

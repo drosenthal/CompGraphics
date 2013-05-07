@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/1810/branches/JOGL_2_SANDBOX/make/lib/wince/arm/nvap
+END
+libnvomx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1810/branches/JOGL_2_SANDBOX/make/lib/wince/arm/nvap/libnvomx.lib
+END
+libKD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1806/branches/JOGL_2_SANDBOX/make/lib/wince/arm/nvap/libKD.lib
+END
+libnvkdmain.lib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1810/branches/JOGL_2_SANDBOX/make/lib/wince/arm/nvap/libnvkdmain.lib
+END
+libGLESv2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1810/branches/JOGL_2_SANDBOX/make/lib/wince/arm/nvap/libGLESv2.lib
+END
+libEGL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1810/branches/JOGL_2_SANDBOX/make/lib/wince/arm/nvap/libEGL.lib
+END
+libGLESv1_CM.lib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1810/branches/JOGL_2_SANDBOX/make/lib/wince/arm/nvap/libGLESv1_CM.lib
+END

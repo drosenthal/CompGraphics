@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator
+END
+PriorityQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/PriorityQ.java
+END
+GLUface.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/GLUface.java
+END
+Mesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/Mesh.java
+END
+Sweep.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/Sweep.java
+END
+PriorityQSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/PriorityQSort.java
+END
+Normal.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/Normal.java
+END
+CachedVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/CachedVertex.java
+END
+GLUhalfEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/GLUhalfEdge.java
+END
+TessState.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/TessState.java
+END
+GLUtesselatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/GLUtesselatorImpl.java
+END
+GLUmesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/GLUmesh.java
+END
+Geom.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/Geom.java
+END
+ActiveRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/ActiveRegion.java
+END
+PriorityQHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/PriorityQHeap.java
+END
+DictNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/DictNode.java
+END
+Render.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/Render.java
+END
+Dict.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/Dict.java
+END
+TessMono.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/TessMono.java
+END
+GLUvertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/opengl/impl/tesselator/GLUvertex.java
+END

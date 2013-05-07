@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1956/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/jawt
+END
+JAWTNativeLibLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jogl~svn/!svn/ver/1956/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWTNativeLibLoader.java
+END
+JAWT_PlatformInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jogl~svn/!svn/ver/1881/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWT_PlatformInfo.java
+END
+JAWTUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/1956/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWTUtil.java
+END
+JAWTWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/nativewindow/classes/com/sun/nativewindow/impl/jawt/JAWTWindow.java
+END

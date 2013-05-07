@@ -1,0 +1,40 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/tags/JSR-231-BEFORE-RENAME
+https://svn.java.net/svn/jogl~svn
+
+
+
+2005-08-30T06:48:11.000000Z
+357
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+doc
+dir
+
+make
+dir
+
+src
+dir
+
+www
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/native/jogl
+END
+ContextUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/native/jogl/ContextUpdater.h
+END
+MacOSXWindowSystemInterface.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/native/jogl/MacOSXWindowSystemInterface.m
+END
+BufferUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/native/jogl/BufferUtils.c
+END
+ContextUpdater.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/native/jogl/ContextUpdater.m
+END
+InternalBufferUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/native/jogl/InternalBufferUtils.c
+END
+JAWT_DrawingSurfaceInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/native/jogl/JAWT_DrawingSurfaceInfo.c
+END

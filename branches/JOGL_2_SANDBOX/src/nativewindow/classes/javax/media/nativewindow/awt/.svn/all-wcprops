@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1949/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/awt
+END
+AWTGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/awt/AWTGraphicsDevice.java
+END
+AWTGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jogl~svn/!svn/ver/1949/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/awt/AWTGraphicsConfiguration.java
+END
+AWTGraphicsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/nativewindow/classes/javax/media/nativewindow/awt/AWTGraphicsScreen.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/sdk
+END
+CompileShader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/sdk/CompileShader.java
+END
+CompileShaderNVidia.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/sdk/CompileShaderNVidia.java
+END

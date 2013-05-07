@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/macosx
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/macosx/window-system.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/macosx/jni_md.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/macosx/jni.h
+END

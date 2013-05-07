@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/runtime
+END
+StructAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/runtime/StructAccessor.java
+END
+ProcAddressHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/runtime/ProcAddressHelper.java
+END
+BufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/runtime/BufferFactory.java
+END

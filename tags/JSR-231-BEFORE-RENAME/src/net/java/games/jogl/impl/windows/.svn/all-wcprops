@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows
+END
+WindowsPbufferGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsPbufferGLDrawable.java
+END
+WindowsPbufferGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsPbufferGLContext.java
+END
+WindowsOnscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsOnscreenGLContext.java
+END
+WindowsExternalGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsExternalGLContext.java
+END
+WindowsOffscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsOffscreenGLDrawable.java
+END
+WindowsDummyGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsDummyGLDrawable.java
+END
+WindowsGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsGLContext.java
+END
+WindowsGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsGLDrawable.java
+END
+WindowsGLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsGLDrawableFactory.java
+END
+WindowsOffscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsOffscreenGLContext.java
+END
+WindowsExternalGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsExternalGLDrawable.java
+END
+WindowsOnscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/src/net/java/games/jogl/impl/windows/WindowsOnscreenGLDrawable.java
+END

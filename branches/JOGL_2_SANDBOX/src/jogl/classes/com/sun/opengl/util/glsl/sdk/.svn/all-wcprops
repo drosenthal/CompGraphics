@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/glsl/sdk
+END
+CompileShader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/glsl/sdk/CompileShader.java
+END
+CompileShaderNVidia.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/glsl/sdk/CompileShaderNVidia.java
+END

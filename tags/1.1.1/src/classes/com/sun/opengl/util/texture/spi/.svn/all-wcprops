@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1986/tags/1.1.1/src/classes/com/sun/opengl/util/texture/spi
+END
+TextureWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1986/tags/1.1.1/src/classes/com/sun/opengl/util/texture/spi/TextureWriter.java
+END
+TGAImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1986/tags/1.1.1/src/classes/com/sun/opengl/util/texture/spi/TGAImage.java
+END
+TextureProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1986/tags/1.1.1/src/classes/com/sun/opengl/util/texture/spi/TextureProvider.java
+END
+DDSImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1986/tags/1.1.1/src/classes/com/sun/opengl/util/texture/spi/DDSImage.java
+END
+LEDataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1986/tags/1.1.1/src/classes/com/sun/opengl/util/texture/spi/LEDataInputStream.java
+END
+SGIImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1986/tags/1.1.1/src/classes/com/sun/opengl/util/texture/spi/SGIImage.java
+END

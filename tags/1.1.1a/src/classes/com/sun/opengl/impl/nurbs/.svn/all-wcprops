@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs
+END
+OpenGLCurveEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/OpenGLCurveEvaluator.java
+END
+CArrayOfArcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/CArrayOfArcs.java
+END
+Quilt.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Quilt.java
+END
+Curvelist.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Curvelist.java
+END
+PwlArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/PwlArc.java
+END
+NurbsConsts.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/NurbsConsts.java
+END
+GLUnurbsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/GLUnurbsImpl.java
+END
+Knotvector.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Knotvector.java
+END
+Bin.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Bin.java
+END
+Patchlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Patchlist.java
+END
+TrimVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/TrimVertex.java
+END
+CArrayOfFloats.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/CArrayOfFloats.java
+END
+Breakpt.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Breakpt.java
+END
+Knotspec.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Knotspec.java
+END
+O_pwlcurve.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/O_pwlcurve.java
+END
+Backend.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Backend.java
+END
+BezierArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/BezierArc.java
+END
+Arc.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Arc.java
+END
+Curve.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Curve.java
+END
+Mapdesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Mapdesc.java
+END
+Splinespec.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Splinespec.java
+END
+Pspec.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Pspec.java
+END
+Patch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Patch.java
+END
+Quiltspec.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Quiltspec.java
+END
+Flist.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Flist.java
+END
+O_nurbscurve.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/O_nurbscurve.java
+END
+O_nurbssurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/O_nurbssurface.java
+END
+ArcTesselator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/ArcTesselator.java
+END
+DisplayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/DisplayList.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/README.txt
+END
+O_curve.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/O_curve.java
+END
+CArrayOfBreakpts.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/CArrayOfBreakpts.java
+END
+O_surface.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/O_surface.java
+END
+Maplist.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Maplist.java
+END
+Subdivider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Subdivider.java
+END
+CArrayOfQuiltspecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/CArrayOfQuiltspecs.java
+END
+ArcSdirSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/ArcSdirSorter.java
+END
+Renderhints.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Renderhints.java
+END
+ArcTdirSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/ArcTdirSorter.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/Property.java
+END
+O_trim.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/O_trim.java
+END
+OpenGLSurfaceEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/nurbs/OpenGLSurfaceEvaluator.java
+END

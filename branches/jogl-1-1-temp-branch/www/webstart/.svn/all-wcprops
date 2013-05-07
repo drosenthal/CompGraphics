@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/www/webstart
+END
+jogl-natives-win32.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/www/webstart/jogl-natives-win32.jar
+END
+jogl-natives-solsparc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/www/webstart/jogl-natives-solsparc.jar
+END
+jogl-natives-macosx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/www/webstart/jogl-natives-macosx.jar
+END
+jogl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/www/webstart/jogl.jar
+END
+jogl.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/www/webstart/jogl.jnlp
+END
+jogl-natives-linux.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/www/webstart/jogl-natives-linux.jar
+END

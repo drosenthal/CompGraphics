@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1947/branches/JOGL_2_SANDBOX/make
+END
+nwiRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/make/nwiRIversion
+END
+make.jogl.doc.x86_64.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1863/branches/JOGL_2_SANDBOX/make/make.jogl.doc.x86_64.sh
+END
+newtversion
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/make/newtversion
+END
+build-gluegen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/make/build-gluegen.xml
+END
+native-taglet.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/native-taglet.properties
+END
+make.jogl.cdcfp.linux-x86.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1867/branches/JOGL_2_SANDBOX/make/make.jogl.cdcfp.linux-x86.sh
+END
+jogl.compiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/make/jogl.compiler.xml
+END
+lsGL2toGL3_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/lsGL2toGL3_commons.sh
+END
+nativewindow.compiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1880/branches/JOGL_2_SANDBOX/make/nativewindow.compiler.xml
+END
+make.jogl.all.win32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/make/make.jogl.all.win32.bat
+END
+build-jogl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/make/build-jogl.xml
+END
+make.jogl.all.linux-x86_64.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1867/branches/JOGL_2_SANDBOX/make/make.jogl.all.linux-x86_64.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/make/build.xml
+END
+joglRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/joglRIversion
+END
+nativewindowRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/make/nativewindowRIversion
+END
+lsGLtoES2_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/lsGLtoES2_commons.sh
+END
+lstjars.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/lstjars.sh
+END
+lsGLES2toGL3_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/lsGLES2toGL3_commons.sh
+END
+newt.compiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/make/newt.compiler.xml
+END
+build-staticglgen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/build-staticglgen.xml
+END
+README-zip-bundles.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/README-zip-bundles.txt
+END
+make.jogl.all.macosx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/make/make.jogl.all.macosx.sh
+END
+newtRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1868/branches/JOGL_2_SANDBOX/make/newtRIversion
+END
+joglversion
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1543/branches/JOGL_2_SANDBOX/make/joglversion
+END
+build-nativewindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1937/branches/JOGL_2_SANDBOX/make/build-nativewindow.xml
+END
+nativewindowversion
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/1881/branches/JOGL_2_SANDBOX/make/nativewindowversion
+END
+lsGLtoES1ES2_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/lsGLtoES1ES2_commons.sh
+END
+validate-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1702/branches/JOGL_2_SANDBOX/make/validate-properties.xml
+END
+lsGLtoGL3_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/lsGLtoGL3_commons.sh
+END
+setvc9-jogl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1924/branches/JOGL_2_SANDBOX/make/setvc9-jogl.bat
+END
+make.jogl.doc.all.x86.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1867/branches/JOGL_2_SANDBOX/make/make.jogl.doc.all.x86.sh
+END
+make.jogl.doc.all.x86_64.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1891/branches/JOGL_2_SANDBOX/make/make.jogl.doc.all.x86_64.sh
+END
+jogl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1702/branches/JOGL_2_SANDBOX/make/jogl.properties
+END
+make.jogl.all.linux-x86.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/make.jogl.all.linux-x86.sh
+END
+build-newt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1947/branches/JOGL_2_SANDBOX/make/build-newt.xml
+END
+lsGLtoES1_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/make/lsGLtoES1_commons.sh
+END

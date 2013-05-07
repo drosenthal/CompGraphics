@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1957/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/macosx
+END
+MacWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1957/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/macosx/MacWindow.java
+END
+MacScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1952/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/macosx/MacScreen.java
+END
+MacDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/1923/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/macosx/MacDisplay.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1703/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES2
+END
+gl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1673/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES2/gl2.h
+END
+gl2ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1703/branches/JOGL_2_SANDBOX/make/stub_includes/opengl/GLES2/gl2ext.h
+END

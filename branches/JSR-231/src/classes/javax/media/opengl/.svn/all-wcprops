@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/396/branches/JSR-231/src/classes/javax/media/opengl
+END
+GLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/javax/media/opengl/GLCapabilitiesChooser.java
+END
+DefaultGLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/javax/media/opengl/DefaultGLCapabilitiesChooser.java
+END
+GLJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/396/branches/JSR-231/src/classes/javax/media/opengl/GLJPanel.java
+END
+GLCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/381/branches/JSR-231/src/classes/javax/media/opengl/GLCanvas.java
+END
+GLCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/javax/media/opengl/GLCapabilities.java
+END
+GLPbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/javax/media/opengl/GLPbuffer.java
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/javax/media/opengl/GLException.java
+END
+GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/379/branches/JSR-231/src/classes/javax/media/opengl/GLContext.java
+END
+GLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/javax/media/opengl/GLEventListener.java
+END
+Threading.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/382/branches/JSR-231/src/classes/javax/media/opengl/Threading.java
+END
+GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/384/branches/JSR-231/src/classes/javax/media/opengl/GLDrawableFactory.java
+END
+ComponentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/javax/media/opengl/ComponentEvents.java
+END
+GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/372/branches/JSR-231/src/classes/javax/media/opengl/GLDrawable.java
+END
+GLAutoDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/379/branches/JSR-231/src/classes/javax/media/opengl/GLAutoDrawable.java
+END

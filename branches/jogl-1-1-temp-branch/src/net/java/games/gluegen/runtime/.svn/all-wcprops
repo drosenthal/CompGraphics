@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/gluegen/runtime
+END
+StructAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/gluegen/runtime/StructAccessor.java
+END
+ProcAddressHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/gluegen/runtime/ProcAddressHelper.java
+END
+BufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/src/net/java/games/gluegen/runtime/BufferFactory.java
+END

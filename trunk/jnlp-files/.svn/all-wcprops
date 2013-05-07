@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/jogl~svn/!svn/ver/2024/trunk/jnlp-files
+END
+newt-awt.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/2019/trunk/jnlp-files/newt-awt.jnlp
+END
+newt.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jogl~svn/!svn/ver/2022/trunk/jnlp-files/newt.jnlp
+END
+newt-jogl.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/2019/trunk/jnlp-files/newt-jogl.jnlp
+END
+jogl-core.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/2024/trunk/jnlp-files/jogl-core.jnlp
+END
+jogl-all-awt.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/2024/trunk/jnlp-files/jogl-all-awt.jnlp
+END
+jogl-all.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/2024/trunk/jnlp-files/jogl-all.jnlp
+END
+jogl-awt.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/2024/trunk/jnlp-files/jogl-awt.jnlp
+END
+jogl-gl2es12.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/2024/trunk/jnlp-files/jogl-gl2es12.jnlp
+END
+nativewindow-awt.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/2024/trunk/jnlp-files/nativewindow-awt.jnlp
+END
+nativewindow.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/2022/trunk/jnlp-files/nativewindow.jnlp
+END

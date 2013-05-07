@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen
+END
+GlueEmitterControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/GlueEmitterControls.java
+END
+CommentEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/CommentEmitter.java
+END
+CodeGenUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/CodeGenUtils.java
+END
+CMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/CMethodBindingEmitter.java
+END
+CMethodBindingImplEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/CMethodBindingImplEmitter.java
+END
+JavaMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/JavaMethodBindingEmitter.java
+END
+JavaEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/JavaEmitter.java
+END
+JavaMethodBindingImplEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/JavaMethodBindingImplEmitter.java
+END
+TypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/TypeInfo.java
+END
+ReferencedStructs.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/ReferencedStructs.java
+END
+MethodBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/MethodBinding.java
+END
+ArrayTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/ArrayTypes.java
+END
+StructLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/StructLayout.java
+END
+JavaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/JavaType.java
+END
+DebugEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/DebugEmitter.java
+END
+GlueGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/GlueGen.java
+END
+GlueEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/GlueEmitter.java
+END
+FunctionEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/FunctionEmitter.java
+END
+JavaConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/JavaConfiguration.java
+END

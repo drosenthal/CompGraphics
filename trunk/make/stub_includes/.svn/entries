@@ -1,0 +1,91 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/trunk/make/stub_includes
+https://svn.java.net/svn/jogl~svn
+delete
+
+
+2009-06-18T06:50:13.002451Z
+1988
+sgoethel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+cg
+dir
+
+
+
+delete
+
+common
+dir
+
+
+
+delete
+
+egl
+dir
+
+
+
+delete
+
+jni
+dir
+
+
+
+delete
+
+macosx
+dir
+
+
+
+delete
+
+opengl
+dir
+
+
+
+delete
+
+openmax
+dir
+
+
+
+delete
+
+win32
+dir
+
+
+
+delete
+
+x11
+dir
+
+
+
+delete
+

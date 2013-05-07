@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/opengl
+END
+BuildStaticGLInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/opengl/BuildStaticGLInfo.java
+END
+BuildComposablePipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/opengl/BuildComposablePipeline.java
+END
+GLEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/opengl/GLEmitter.java
+END
+CGLPAWrapperEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/opengl/CGLPAWrapperEmitter.java
+END
+ConvertFromGL4Java.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/opengl/ConvertFromGL4Java.java
+END
+JavaGLPAWrapperEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/opengl/JavaGLPAWrapperEmitter.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/1924/branches/JOGL_2_SANDBOX/make/stub_includes/egl/KD
+END
+NV_extwindowprops.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1804/branches/JOGL_2_SANDBOX/make/stub_includes/egl/KD/NV_extwindowprops.h
+END
+kd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1924/branches/JOGL_2_SANDBOX/make/stub_includes/egl/KD/kd.h
+END
+kdplatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1804/branches/JOGL_2_SANDBOX/make/stub_includes/egl/KD/kdplatform.h
+END
+NV_multitouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1804/branches/JOGL_2_SANDBOX/make/stub_includes/egl/KD/NV_multitouch.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram
+END
+GnuCEmitter.g
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/GnuCEmitter.g
+END
+Define.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/Define.java
+END
+HeaderParser.g
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/HeaderParser.g
+END
+StdCParser.g
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/StdCParser.g
+END
+CToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/CToken.java
+END
+TNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/TNode.java
+END
+PreprocessorInfoChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/PreprocessorInfoChannel.java
+END
+GnuCTreeParser.g
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/GnuCTreeParser.g
+END
+TNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/TNodeFactory.java
+END
+CSymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/CSymbolTable.java
+END
+GnuCParser.g
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/GnuCParser.g
+END
+LineObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/cgram/LineObject.java
+END

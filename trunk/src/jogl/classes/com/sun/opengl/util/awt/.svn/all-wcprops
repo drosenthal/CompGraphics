@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/awt
+END
+Overlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/awt/Overlay.java
+END
+TextRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/awt/TextRenderer.java
+END
+TextureRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/awt/TextureRenderer.java
+END
+ImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/awt/ImageUtil.java
+END
+Screenshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/awt/Screenshot.java
+END

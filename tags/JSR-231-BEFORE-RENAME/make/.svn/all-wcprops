@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make
+END
+cgl-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/cgl-macosx.cfg
+END
+glu-impl-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-impl-win32.cfg
+END
+gl-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-macosx.cfg
+END
+glxext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glxext.cfg
+END
+build-gluegen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/build-gluegen.xml
+END
+gl-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-common.cfg
+END
+gl-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-win32.cfg
+END
+glu-impl-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-impl-macosx.cfg
+END
+cglext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/cglext.cfg
+END
+gl-impl-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-impl-CustomCCode.c
+END
+glu-impl-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-impl-common.cfg
+END
+gl-common-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-common-x11.cfg
+END
+jawt-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/jawt-x11.cfg
+END
+gl-common-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-common-macosx.cfg
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/build.xml
+END
+cg-common-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/cg-common-CustomJavaCode.java
+END
+glu-impl-win32-GLU13Hacks.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-impl-win32-GLU13Hacks.cfg
+END
+glu-impl-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-impl-x11.cfg
+END
+glu-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-common.cfg
+END
+glu-interface-common-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-interface-common-CustomJavaCode.java
+END
+glu-impl-common-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-impl-common-CustomCCode.c
+END
+wgl-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/wgl-CustomCCode.c
+END
+gl-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-x11.cfg
+END
+glu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu.cfg
+END
+build-staticglgen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/build-staticglgen.xml
+END
+cg-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/cg-common.cfg
+END
+gl-impl-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-impl-CustomJavaCode.java
+END
+validate-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/validate-properties.xml
+END
+wingdi-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/wingdi-win32.cfg
+END
+jawt-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/jawt-macosx.cfg
+END
+glx-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glx-x11.cfg
+END
+gl-common-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/gl-common-win32.cfg
+END
+jogl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/jogl.properties
+END
+jawt-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/jawt-win32.cfg
+END
+wglext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/wglext.cfg
+END
+glu-impl-common-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/glu-impl-common-CustomJavaCode.java
+END

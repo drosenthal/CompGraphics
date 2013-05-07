@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/make/stub_includes/common
+END
+glu-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/make/stub_includes/common/glu-impl.c
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/make/stub_includes/common/glu.c
+END
+cg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/make/stub_includes/common/cg.c
+END
+gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/make/stub_includes/common/gl.c
+END
+gl-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/96/branches/jogl-1-1-temp-branch/make/stub_includes/common/gl-impl.c
+END

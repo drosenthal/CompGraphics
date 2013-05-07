@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect
+END
+LevelSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect/LevelSet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect/package.html
+END
+RectVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect/RectVisitor.java
+END
+BackingStoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect/BackingStoreManager.java
+END
+RectanglePacker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect/RectanglePacker.java
+END
+Level.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect/Level.java
+END
+Rect.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/packrect/Rect.java
+END

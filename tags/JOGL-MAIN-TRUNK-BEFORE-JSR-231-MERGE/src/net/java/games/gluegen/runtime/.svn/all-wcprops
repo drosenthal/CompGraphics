@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/gluegen/runtime
+END
+StructAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/gluegen/runtime/StructAccessor.java
+END
+ProcAddressHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/gluegen/runtime/ProcAddressHelper.java
+END
+BufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/src/net/java/games/gluegen/runtime/BufferFactory.java
+END

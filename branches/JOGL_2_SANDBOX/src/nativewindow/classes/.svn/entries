@@ -1,0 +1,34 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/branches/JOGL_2_SANDBOX/src/nativewindow/classes
+https://svn.java.net/svn/jogl~svn
+
+
+
+2009-06-15T11:05:16.733386Z
+1956
+sgoethel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+com
+dir
+
+javax
+dir
+

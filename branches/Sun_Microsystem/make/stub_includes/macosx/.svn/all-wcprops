@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/window-system.c
+END
+glu-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/glu-impl.c
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/glu.c
+END
+gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/gl.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/jni_md.h
+END
+jawt_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/jawt_md.h
+END
+gl-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/gl-impl.c
+END
+jawt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/jawt.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/jni.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/util/j2d
+END
+Overlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/util/j2d/Overlay.java
+END
+TextRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/util/j2d/TextRenderer.java
+END
+TextureRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/util/j2d/TextureRenderer.java
+END

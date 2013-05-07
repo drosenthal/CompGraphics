@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/net/java/games/jogl/impl/windows
+END
+WindowsPbufferGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/net/java/games/jogl/impl/windows/WindowsPbufferGLContext.java
+END
+WindowsOnscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/net/java/games/jogl/impl/windows/WindowsOnscreenGLContext.java
+END
+WindowsGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/net/java/games/jogl/impl/windows/WindowsGLContext.java
+END
+WindowsGLContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/net/java/games/jogl/impl/windows/WindowsGLContextFactory.java
+END
+WindowsOffscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/src/net/java/games/jogl/impl/windows/WindowsOffscreenGLContext.java
+END

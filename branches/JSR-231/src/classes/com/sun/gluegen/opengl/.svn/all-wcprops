@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/378/branches/JSR-231/src/classes/com/sun/gluegen/opengl
+END
+BuildStaticGLInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/362/branches/JSR-231/src/classes/com/sun/gluegen/opengl/BuildStaticGLInfo.java
+END
+BuildComposablePipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/opengl/BuildComposablePipeline.java
+END
+GLEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/378/branches/JSR-231/src/classes/com/sun/gluegen/opengl/GLEmitter.java
+END
+GLCMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/378/branches/JSR-231/src/classes/com/sun/gluegen/opengl/GLCMethodBindingEmitter.java
+END
+ConvertFromGL4Java.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/gluegen/opengl/ConvertFromGL4Java.java
+END
+GLJavaMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/374/branches/JSR-231/src/classes/com/sun/gluegen/opengl/GLJavaMethodBindingEmitter.java
+END

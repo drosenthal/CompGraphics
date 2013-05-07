@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1991/trunk/src/newt/classes/com/sun/javafx/newt/x11
+END
+X11Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1991/trunk/src/newt/classes/com/sun/javafx/newt/x11/X11Display.java
+END
+X11Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/x11/X11Window.java
+END
+X11Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/x11/X11Screen.java
+END

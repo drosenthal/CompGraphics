@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/2021/trunk/src/newt/classes/com/sun/javafx/newt/impl
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/2020/trunk/src/newt/classes/com/sun/javafx/newt/impl/Debug.java
+END
+NativeLibLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/2021/trunk/src/newt/classes/com/sun/javafx/newt/impl/NativeLibLoader.java
+END

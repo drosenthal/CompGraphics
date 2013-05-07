@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator
+END
+PriorityQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/PriorityQ.java
+END
+GLUface.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/GLUface.java
+END
+Mesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/Mesh.java
+END
+Sweep.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/Sweep.java
+END
+PriorityQSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/PriorityQSort.java
+END
+Normal.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/Normal.java
+END
+CachedVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/CachedVertex.java
+END
+GLUhalfEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/GLUhalfEdge.java
+END
+TessState.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/TessState.java
+END
+GLUmesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/GLUmesh.java
+END
+Geom.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/Geom.java
+END
+ActiveRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/ActiveRegion.java
+END
+GLUtessellatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/GLUtessellatorImpl.java
+END
+PriorityQHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/PriorityQHeap.java
+END
+DictNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/DictNode.java
+END
+Render.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/Render.java
+END
+Dict.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/Dict.java
+END
+TessMono.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/TessMono.java
+END
+GLUvertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/tessellator/GLUvertex.java
+END

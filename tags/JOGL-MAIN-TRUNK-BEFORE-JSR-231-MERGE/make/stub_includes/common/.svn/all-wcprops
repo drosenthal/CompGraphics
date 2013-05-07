@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/common
+END
+glu-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/common/glu-impl.c
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/common/glu.c
+END
+cg.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/common/cg.c
+END
+gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/common/gl.c
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/common/stddef.h
+END
+gl-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/394/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE/make/stub_includes/common/gl-impl.c
+END

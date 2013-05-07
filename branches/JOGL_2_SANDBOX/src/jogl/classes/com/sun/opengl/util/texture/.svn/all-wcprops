@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture
+END
+TextureIO.java.javase
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/TextureIO.java.javase
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/Texture.java
+END
+TextureCoords.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/TextureCoords.java
+END
+TextureData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/1890/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/TextureData.java
+END
+TextureIO.java.javame_cdc_fp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/TextureIO.java.javame_cdc_fp
+END

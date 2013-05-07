@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/window-system.c
+END
+glu-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/glu-impl.c
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/glu.c
+END
+cg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/cg.c
+END
+gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/gl.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/jni_md.h
+END
+gl-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/gl-impl.c
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/x11/jni.h
+END

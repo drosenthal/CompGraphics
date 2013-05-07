@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/jogl~svn/!svn/ver/2016/trunk/make
+END
+nwiRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jogl~svn/!svn/ver/1959/trunk/make/nwiRIversion
+END
+make.jogl.doc.x86_64.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1988/trunk/make/make.jogl.doc.x86_64.sh
+END
+newtversion
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jogl~svn/!svn/ver/1959/trunk/make/newtversion
+END
+versions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jogl~svn/!svn/ver/2009/trunk/make/versions.xml
+END
+build-gluegen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1959/trunk/make/build-gluegen.xml
+END
+native-taglet.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jogl~svn/!svn/ver/1959/trunk/make/native-taglet.properties
+END
+make.jogl.cdcfp.linux-x86.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/1988/trunk/make/make.jogl.cdcfp.linux-x86.sh
+END
+jogl.compiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1959/trunk/make/jogl.compiler.xml
+END
+lsGL2toGL3_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lsGL2toGL3_commons.sh
+END
+nativewindow.compiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/1959/trunk/make/nativewindow.compiler.xml
+END
+make.jogl.all.win32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/2010/trunk/make/make.jogl.all.win32.bat
+END
+build-jogl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/jogl~svn/!svn/ver/2009/trunk/make/build-jogl.xml
+END
+make.jogl.all.linux-x86_64.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/2016/trunk/make/make.jogl.all.linux-x86_64.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/jogl~svn/!svn/ver/2009/trunk/make/build.xml
+END
+joglRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jogl~svn/!svn/ver/1959/trunk/make/joglRIversion
+END
+nativewindowRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1968/trunk/make/nativewindowRIversion
+END
+lsGLtoES2_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lsGLtoES2_commons.sh
+END
+lstjars.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lstjars.sh
+END
+lsGLES2toGL3_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lsGLES2toGL3_commons.sh
+END
+newt.compiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jogl~svn/!svn/ver/1959/trunk/make/newt.compiler.xml
+END
+build-staticglgen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jogl~svn/!svn/ver/1959/trunk/make/build-staticglgen.xml
+END
+README-zip-bundles.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1970/trunk/make/README-zip-bundles.txt
+END
+make.jogl.all.macosx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/2016/trunk/make/make.jogl.all.macosx.sh
+END
+newtRIversion
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jogl~svn/!svn/ver/1959/trunk/make/newtRIversion
+END
+joglversion
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jogl~svn/!svn/ver/1959/trunk/make/joglversion
+END
+build-nativewindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1988/trunk/make/build-nativewindow.xml
+END
+nativewindowversion
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1959/trunk/make/nativewindowversion
+END
+lsGLtoES1ES2_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lsGLtoES1ES2_commons.sh
+END
+validate-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/make/validate-properties.xml
+END
+lsGLtoGL3_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lsGLtoGL3_commons.sh
+END
+setvc9-jogl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jogl~svn/!svn/ver/1959/trunk/make/setvc9-jogl.bat
+END
+make.jogl.doc.all.x86_64.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1988/trunk/make/make.jogl.doc.all.x86_64.sh
+END
+jogl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jogl~svn/!svn/ver/1961/trunk/make/jogl.properties
+END
+make.jogl.all.linux-x86.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/2016/trunk/make/make.jogl.all.linux-x86.sh
+END
+build-newt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/jogl~svn/!svn/ver/1984/trunk/make/build-newt.xml
+END
+lsGLtoES1_commons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lsGLtoES1_commons.sh
+END

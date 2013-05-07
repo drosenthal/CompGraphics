@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/javax/media/opengl/fixedfunc
+END
+GLPointerFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/javax/media/opengl/fixedfunc/GLPointerFunc.java
+END
+GLMatrixFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/javax/media/opengl/fixedfunc/GLMatrixFunc.java
+END
+GLLightingFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/javax/media/opengl/fixedfunc/GLLightingFunc.java
+END

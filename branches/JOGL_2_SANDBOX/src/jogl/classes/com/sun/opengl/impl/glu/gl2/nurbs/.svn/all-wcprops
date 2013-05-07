@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/gl2/nurbs
+END
+GL2SurfaceEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/gl2/nurbs/GL2SurfaceEvaluator.java
+END
+GLUgl2nurbsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/gl2/nurbs/GLUgl2nurbsImpl.java
+END
+GL2CurveEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/gl2/nurbs/GL2CurveEvaluator.java
+END
+GL2Backend.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/glu/gl2/nurbs/GL2Backend.java
+END

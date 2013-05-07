@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL
+END
+cglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL/cglext.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL/glext.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL/glxext.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL/glu.h
+END
+glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL/glx.h
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL/wglext.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/opengl/GL/gl.h
+END

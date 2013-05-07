@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl
+END
+AWTGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/AWTGraphicsConfiguration.java
+END
+GLPbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLPbuffer.java
+END
+GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLContext.java
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLException.java
+END
+GLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLEventListener.java
+END
+AbstractGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/AbstractGraphicsConfiguration.java
+END
+GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLDrawableFactory.java
+END
+AbstractGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/AbstractGraphicsDevice.java
+END
+GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLDrawable.java
+END
+GLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLCapabilitiesChooser.java
+END
+DefaultGLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/DefaultGLCapabilitiesChooser.java
+END
+GLJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLJPanel.java
+END
+AWTGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/AWTGraphicsDevice.java
+END
+GLCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLCanvas.java
+END
+GLCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLCapabilities.java
+END
+Threading.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/Threading.java
+END
+ComponentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/ComponentEvents.java
+END
+GLAutoDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/javax/media/opengl/GLAutoDrawable.java
+END

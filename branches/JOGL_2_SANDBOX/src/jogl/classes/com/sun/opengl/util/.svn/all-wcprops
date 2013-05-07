@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1934/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util
+END
+FPSAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/FPSAnimator.java
+END
+GLArrayDataClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/GLArrayDataClient.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1891/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/Animator.java
+END
+Gamma.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/Gamma.java
+END
+AnimatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/1894/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/AnimatorImpl.java
+END
+AWTAnimatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1894/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/AWTAnimatorImpl.java
+END
+BufferUtil.java.javame_cdc_fp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/BufferUtil.java.javame_cdc_fp
+END
+GLArrayDataEditable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/GLArrayDataEditable.java
+END
+StreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1890/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/StreamUtil.java
+END
+TGAWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/TGAWriter.java
+END
+GLArrayDataServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/GLArrayDataServer.java
+END
+GLFixedArrayHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/GLFixedArrayHandler.java
+END
+ImmModeSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/ImmModeSink.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/FileUtil.java
+END
+FixedPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/FixedPoint.java
+END
+BufferUtil.java.javase
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/BufferUtil.java.javase
+END
+FBObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1890/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/FBObject.java
+END
+PMVMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/PMVMatrix.java
+END
+GLArrayHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/GLArrayHandler.java
+END
+Locator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1886/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/Locator.java
+END
+GLArrayDataWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/GLArrayDataWrapper.java
+END

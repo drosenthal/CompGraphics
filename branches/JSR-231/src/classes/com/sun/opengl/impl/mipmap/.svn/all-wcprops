@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/398/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap
+END
+Extract565rev.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract565rev.java
+END
+ExtractSShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractSShort.java
+END
+Type_Widget.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Type_Widget.java
+END
+ExtractUShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractUShort.java
+END
+Mipmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/372/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Mipmap.java
+END
+ScaleInternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/398/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ScaleInternal.java
+END
+ExtractPrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractPrimitive.java
+END
+Extract4444rev.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract4444rev.java
+END
+Extract8888rev.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract8888rev.java
+END
+Extract.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract.java
+END
+Extract8888.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract8888.java
+END
+Extract4444.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract4444.java
+END
+Extract1555rev.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract1555rev.java
+END
+ExtractSInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractSInt.java
+END
+Extract5551.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract5551.java
+END
+ExtractUByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractUByte.java
+END
+ExtractFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractFloat.java
+END
+ExtractUInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractUInt.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Image.java
+END
+PixelStorageModes.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/PixelStorageModes.java
+END
+ExtractSByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/ExtractSByte.java
+END
+HalveImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/HalveImage.java
+END
+BuildMipmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/372/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/BuildMipmap.java
+END
+Extract2101010rev.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract2101010rev.java
+END
+Extract1010102.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract1010102.java
+END
+Extract565.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract565.java
+END
+Extract233rev.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract233rev.java
+END
+Extract332.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/358/branches/JSR-231/src/classes/com/sun/opengl/impl/mipmap/Extract332.java
+END

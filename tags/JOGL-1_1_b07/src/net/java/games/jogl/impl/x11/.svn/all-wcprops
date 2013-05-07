@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/x11
+END
+X11SunJDKReflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/x11/X11SunJDKReflection.java
+END
+X11GLContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/x11/X11GLContextFactory.java
+END
+X11OffscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/x11/X11OffscreenGLContext.java
+END
+X11OnscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/x11/X11OnscreenGLContext.java
+END
+X11GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/x11/X11GLContext.java
+END
+X11PbufferGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/x11/X11PbufferGLContext.java
+END

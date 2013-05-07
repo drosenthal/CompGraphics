@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/www/webstart
+END
+jogl-natives-win32.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/www/webstart/jogl-natives-win32.jar
+END
+jogl-natives-solsparc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/www/webstart/jogl-natives-solsparc.jar
+END
+jogl-natives-macosx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/www/webstart/jogl-natives-macosx.jar
+END
+jogl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/www/webstart/jogl.jar
+END
+jogl.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/www/webstart/jogl.jnlp
+END
+jogl-natives-linux.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/181/branches/BLACKBIRD/www/webstart/jogl-natives-linux.jar
+END

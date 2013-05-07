@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows
+END
+WindowsPbufferGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsPbufferGLDrawable.java
+END
+WindowsPbufferGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsPbufferGLContext.java
+END
+WindowsOnscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsOnscreenGLContext.java
+END
+WindowsExternalGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsExternalGLContext.java
+END
+WindowsOffscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsOffscreenGLDrawable.java
+END
+WindowsDummyGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsDummyGLDrawable.java
+END
+WindowsGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsGLContext.java
+END
+WindowsGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsGLDrawable.java
+END
+WindowsGLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsGLDrawableFactory.java
+END
+WindowsOffscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsOffscreenGLContext.java
+END
+WindowsExternalGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsExternalGLDrawable.java
+END
+WindowsOnscreenGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/windows/WindowsOnscreenGLDrawable.java
+END

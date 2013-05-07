@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/awt
+END
+AWTWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/awt/AWTWindow.java
+END
+AWTScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/awt/AWTScreen.java
+END
+AWTCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/awt/AWTCanvas.java
+END
+AWTDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/awt/AWTDisplay.java
+END

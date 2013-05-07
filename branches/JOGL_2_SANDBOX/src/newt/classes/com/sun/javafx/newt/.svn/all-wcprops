@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1957/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt
+END
+InputEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1913/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/InputEvent.java
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1947/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/Window.java
+END
+EventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1869/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/EventListener.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/Screen.java
+END
+KeyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1869/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/KeyEvent.java
+END
+WindowEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/WindowEvent.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/1869/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/Event.java
+END
+MouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1913/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/MouseListener.java
+END
+NewtFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/NewtFactory.java
+END
+MouseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1913/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/MouseEvent.java
+END
+WindowListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1916/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/WindowListener.java
+END
+KeyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1869/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/KeyListener.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/Display.java
+END

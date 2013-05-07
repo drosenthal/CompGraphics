@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG
+END
+cg_bindlocations.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cg_bindlocations.h
+END
+cg_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cg_errors.h
+END
+cg_enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cg_enums.h
+END
+cgGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cgGL.h
+END
+cgGL_profiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cgGL_profiles.h
+END
+cg.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cg.h
+END
+cg_datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cg_datatypes.h
+END
+cg_profiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/357/tags/JSR-231-BEFORE-RENAME/make/stub_includes/cg/CG/cg_profiles.h
+END

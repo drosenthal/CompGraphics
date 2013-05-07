@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/311/tags/JOGL_1_1/make/stub_includes/x11/X11
+END
+X.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/311/tags/JOGL_1_1/make/stub_includes/x11/X11/X.h
+END
+Xutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/311/tags/JOGL_1_1/make/stub_includes/x11/X11/Xutil.h
+END
+Xlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/311/tags/JOGL_1_1/make/stub_includes/x11/X11/Xlib.h
+END
+Intrinsic.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/311/tags/JOGL_1_1/make/stub_includes/x11/X11/Intrinsic.h
+END

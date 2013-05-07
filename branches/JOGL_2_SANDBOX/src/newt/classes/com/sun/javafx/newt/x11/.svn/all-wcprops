@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/x11
+END
+X11Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/x11/X11Display.java
+END
+X11Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/x11/X11Window.java
+END
+X11Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/newt/classes/com/sun/javafx/newt/x11/X11Screen.java
+END

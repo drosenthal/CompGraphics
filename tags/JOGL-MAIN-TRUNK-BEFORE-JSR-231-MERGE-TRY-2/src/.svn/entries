@@ -1,0 +1,34 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src
+https://svn.java.net/svn/jogl~svn
+
+
+
+2005-10-07T01:47:35.000000Z
+395
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+native
+dir
+
+net
+dir
+

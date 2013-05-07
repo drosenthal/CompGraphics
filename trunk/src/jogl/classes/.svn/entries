@@ -1,0 +1,42 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/trunk/src/jogl/classes
+https://svn.java.net/svn/jogl~svn
+delete
+
+
+2009-07-04T02:51:49.551035Z
+2021
+sgoethel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+com
+dir
+
+
+
+delete
+
+javax
+dir
+
+
+
+delete
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders
+END
+mgl_lightdef.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/mgl_lightdef.glsl
+END
+mgl_settexcoord.vp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/mgl_settexcoord.vp
+END
+mgl_uniform.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/mgl_uniform.glsl
+END
+mgl_const.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/mgl_const.glsl
+END
+FixedFuncColorTexture.fp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/FixedFuncColorTexture.fp
+END
+mgl_varying.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/mgl_varying.glsl
+END
+mgl_attribute.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/mgl_attribute.glsl
+END
+FixedFuncColorLight.vp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/FixedFuncColorLight.vp
+END
+FixedFuncColor.fp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/FixedFuncColor.fp
+END
+FixedFuncColor.vp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/FixedFuncColor.vp
+END
+mgl_uniform_light.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/mgl_uniform_light.glsl
+END
+es_precision.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/util/glsl/fixedfunc/impl/shaders/es_precision.glsl
+END

@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/jogl~svn/!svn/ver/1975/trunk/make/config/jogl
+END
+wgl-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/wgl-win32.cfg
+END
+cgl-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/cgl-macosx.cfg
+END
+gl-impl-CustomCCode-gles1.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomCCode-gles1.c
+END
+egl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/egl.cfg
+END
+gl-impl-CustomCCode-gles2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomCCode-gles2.c
+END
+glu-base.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glu-base.cfg
+END
+glxext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glxext.cfg
+END
+gl-common-extensions.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-common-extensions.cfg
+END
+glu-gl2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glu-gl2.cfg
+END
+gl-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-common.cfg
+END
+gl-gl2es12.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-gl2es12.cfg
+END
+gl-impl-CustomJavaCode-gl2.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-gl2.java
+END
+eglext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/eglext.cfg
+END
+cglext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/cglext.cfg
+END
+gl-es1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-es1.cfg
+END
+gl-es2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-es2.cfg
+END
+gl-win32-nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-win32-nsig.cfg
+END
+gl-headers.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-headers.cfg
+END
+gl-desktop-tracker.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-desktop-tracker.cfg
+END
+gl-x11-nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-x11-nsig.cfg
+END
+glx-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glx-CustomJavaCode.java
+END
+cg-common-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/cg-common-CustomJavaCode.java
+END
+gl-macosx-nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-macosx-nsig.cfg
+END
+nsig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/nsig.cfg
+END
+gl-impl-CustomJavaCode-gles1.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-gles1.java
+END
+gl-impl-CustomJavaCode-gl2es12.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-gl2es12.java
+END
+gl3-headers.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl3-headers.cfg
+END
+gl3-desktop-tracker.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl3-desktop-tracker.cfg
+END
+glu-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glu-common.cfg
+END
+gl-if-gl2_es1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-if-gl2_es1.cfg
+END
+gl-if-gl2_es2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-if-gl2_es2.cfg
+END
+gl-if-gl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-if-gl.cfg
+END
+wgl-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/wgl-CustomCCode.c
+END
+gl-impl-CustomJavaCode-gl2_es2.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-gl2_es2.java
+END
+gl-if-CustomJavaCode-gl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-if-CustomJavaCode-gl.java
+END
+gl-common-gl2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-common-gl2.cfg
+END
+glu-gl2es1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glu-gl2es1.cfg
+END
+glu-CustomJavaCode-gl2es1.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glu-CustomJavaCode-gl2es1.java
+END
+gl-impl-CustomJavaCode-gl3.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-gl3.java
+END
+cg-common.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/cg-common.cfg
+END
+gl-desktop.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-desktop.cfg
+END
+gl-impl-CustomCCode-gl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomCCode-gl2.c
+END
+glu-CustomJavaCode-base.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glu-CustomJavaCode-base.java
+END
+gl-impl-CustomCCode-gl3.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomCCode-gl3.c
+END
+gl3-desktop.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl3-desktop.cfg
+END
+glu-CustomJavaCode-gl2.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glu-CustomJavaCode-gl2.java
+END
+glx-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/glx-x11.cfg
+END
+gl-if-CustomJavaCode-gles2.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-if-CustomJavaCode-gles2.java
+END
+gl-if-gl-ignores.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-if-gl-ignores.cfg
+END
+gl-impl-CustomJavaCode-gles2.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-gles2.java
+END
+glx-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1975/trunk/make/config/jogl/glx-CustomCCode.c
+END
+wglext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/wglext.cfg
+END
+gl-gl2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-gl2.cfg
+END
+gl-gl3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-gl3.cfg
+END
+gl-impl-CustomJavaCode-desktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-desktop.java
+END
+gl-impl-CustomJavaCode-common.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-common.java
+END
+gl-impl-CustomCCode-gl2es12.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomCCode-gl2es12.c
+END
+gl-impl-CustomJavaCode-embedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/jogl/gl-impl-CustomJavaCode-embedded.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator
+END
+PriorityQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/PriorityQ.java
+END
+GLUface.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/GLUface.java
+END
+Mesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/Mesh.java
+END
+Sweep.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/Sweep.java
+END
+PriorityQSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/PriorityQSort.java
+END
+Normal.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/Normal.java
+END
+CachedVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/CachedVertex.java
+END
+GLUhalfEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/GLUhalfEdge.java
+END
+TessState.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/TessState.java
+END
+GLUmesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/GLUmesh.java
+END
+Geom.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/Geom.java
+END
+ActiveRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/ActiveRegion.java
+END
+GLUtessellatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/GLUtessellatorImpl.java
+END
+PriorityQHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/PriorityQHeap.java
+END
+DictNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/DictNode.java
+END
+Render.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/Render.java
+END
+Dict.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/Dict.java
+END
+TessMono.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/TessMono.java
+END
+GLUvertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/src/classes/com/sun/opengl/impl/tessellator/GLUvertex.java
+END

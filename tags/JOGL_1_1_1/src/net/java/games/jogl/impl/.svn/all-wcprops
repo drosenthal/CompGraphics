@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl
+END
+FunctionAvailabilityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/FunctionAvailabilityCache.java
+END
+SingleThreadedWorkaround.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/SingleThreadedWorkaround.java
+END
+GLContextShareSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLContextShareSet.java
+END
+JAWT_PlatformInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/JAWT_PlatformInfo.java
+END
+GLPbufferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLPbufferImpl.java
+END
+GLContextInitActionPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLContextInitActionPair.java
+END
+GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLContext.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/Util.java
+END
+NativeLibLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/NativeLibLoader.java
+END
+GLContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLContextFactory.java
+END
+GLContextStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLContextStack.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/Project.java
+END
+GLUquadricImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLUquadricImpl.java
+END
+InternalBufferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/InternalBufferUtils.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/Debug.java
+END
+GLDrawableHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/323/tags/JOGL_1_1_1/src/net/java/games/jogl/impl/GLDrawableHelper.java
+END

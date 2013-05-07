@@ -1,0 +1,40 @@
+10
+
+dir
+2036
+https://svn.java.net/svn/jogl~svn/branches/Sun_Microsystem
+https://svn.java.net/svn/jogl~svn
+
+
+
+2003-06-08T19:27:01.000000Z
+4
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f6fb05e-c4ab-e9a8-f875-c4b7531c024e
+
+demos
+dir
+
+doc
+dir
+
+make
+dir
+
+src
+dir
+

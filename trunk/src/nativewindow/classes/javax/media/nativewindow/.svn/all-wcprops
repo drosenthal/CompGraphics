@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/2018/trunk/src/nativewindow/classes/javax/media/nativewindow
+END
+DefaultGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/DefaultGraphicsConfiguration.java
+END
+AbstractGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/AbstractGraphicsConfiguration.java
+END
+ToolkitLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1977/trunk/src/nativewindow/classes/javax/media/nativewindow/ToolkitLock.java
+END
+NativeWindowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/NativeWindowException.java
+END
+NativeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/NativeWindow.java
+END
+CapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/CapabilitiesChooser.java
+END
+DefaultCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/DefaultCapabilitiesChooser.java
+END
+AbstractGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/AbstractGraphicsDevice.java
+END
+NativeWindowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/2018/trunk/src/nativewindow/classes/javax/media/nativewindow/NativeWindowFactory.java
+END
+DefaultGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/DefaultGraphicsDevice.java
+END
+GraphicsConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jogl~svn/!svn/ver/2016/trunk/src/nativewindow/classes/javax/media/nativewindow/GraphicsConfigurationFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/package.html
+END
+AbstractGraphicsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/AbstractGraphicsScreen.java
+END
+DefaultGraphicsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/DefaultGraphicsScreen.java
+END
+Capabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/javax/media/nativewindow/Capabilities.java
+END

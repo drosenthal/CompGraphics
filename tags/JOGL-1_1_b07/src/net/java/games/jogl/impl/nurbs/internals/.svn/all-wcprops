@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals
+END
+CachingEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/CachingEvaluator.java
+END
+ArcTesselator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/ArcTesselator.java
+END
+BasicSurfaceEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/BasicSurfaceEvaluator.java
+END
+BasicCurveEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/BasicCurveEvaluator.java
+END
+NurbsConsts.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/NurbsConsts.java
+END
+Subdivider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/Subdivider.java
+END
+Defines.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/Defines.java
+END
+Bin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/Bin.java
+END
+Backend.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/Backend.java
+END
+BezierArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/BezierArc.java
+END
+NurbsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/NurbsException.java
+END
+Arc.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/jogl/impl/nurbs/internals/Arc.java
+END

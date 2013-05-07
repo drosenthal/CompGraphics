@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/2022/trunk/src/nativewindow/classes/com/sun/nativewindow/impl
+END
+GraphicsConfigurationFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/GraphicsConfigurationFactoryImpl.java
+END
+InternalBufferUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/InternalBufferUtil.java
+END
+LockingNativeWindowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1988/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/LockingNativeWindowFactory.java
+END
+NullWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/NullWindow.java
+END
+NWReflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/NWReflection.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/2020/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/Debug.java
+END
+NativeWindowFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/NativeWindowFactoryImpl.java
+END
+NativeLibLoaderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/2021/trunk/src/nativewindow/classes/com/sun/nativewindow/impl/NativeLibLoaderBase.java
+END

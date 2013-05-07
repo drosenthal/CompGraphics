@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lib/wince/arm/nvap
+END
+libnvomx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lib/wince/arm/nvap/libnvomx.lib
+END
+libKD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lib/wince/arm/nvap/libKD.lib
+END
+libnvkdmain.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lib/wince/arm/nvap/libnvkdmain.lib
+END
+libGLESv2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lib/wince/arm/nvap/libGLESv2.lib
+END
+libEGL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lib/wince/arm/nvap/libEGL.lib
+END
+libGLESv1_CM.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1959/trunk/make/lib/wince/arm/nvap/libGLESv1_CM.lib
+END

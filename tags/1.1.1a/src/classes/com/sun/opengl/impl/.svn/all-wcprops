@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl
+END
+FunctionAvailabilityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/FunctionAvailabilityCache.java
+END
+GLContextShareSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLContextShareSet.java
+END
+GLWorkerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLWorkerThread.java
+END
+GLBufferStateTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLBufferStateTracker.java
+END
+JAWT_PlatformInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/JAWT_PlatformInfo.java
+END
+GLPbufferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLPbufferImpl.java
+END
+GLContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLContextImpl.java
+END
+GLDrawableFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLDrawableFactoryImpl.java
+END
+GLDrawableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLDrawableImpl.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/Util.java
+END
+NativeLibLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/NativeLibLoader.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/Project.java
+END
+Java2DGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/Java2DGLContext.java
+END
+GLContextLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLContextLock.java
+END
+GLUquadricImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLUquadricImpl.java
+END
+GLObjectTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLObjectTracker.java
+END
+Java2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/Java2D.java
+END
+InternalBufferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/InternalBufferUtils.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/Debug.java
+END
+GLBufferSizeTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLBufferSizeTracker.java
+END
+GLDrawableHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/classes/com/sun/opengl/impl/GLDrawableHelper.java
+END

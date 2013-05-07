@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/2021/trunk/src/newt/classes/com/sun/javafx/newt
+END
+InputEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/InputEvent.java
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/Window.java
+END
+EventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/EventListener.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/2018/trunk/src/newt/classes/com/sun/javafx/newt/Screen.java
+END
+KeyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/KeyEvent.java
+END
+WindowEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/WindowEvent.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/Event.java
+END
+MouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/MouseListener.java
+END
+NewtFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/2016/trunk/src/newt/classes/com/sun/javafx/newt/NewtFactory.java
+END
+MouseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/MouseEvent.java
+END
+WindowListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/WindowListener.java
+END
+KeyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1959/trunk/src/newt/classes/com/sun/javafx/newt/KeyListener.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/Display.java
+END
+DisplayActionThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jogl~svn/!svn/ver/1976/trunk/src/newt/classes/com/sun/javafx/newt/DisplayActionThread.java
+END

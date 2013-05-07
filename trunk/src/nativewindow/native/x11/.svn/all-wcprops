@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/x11
+END
+Xinerama.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/x11/Xinerama.c
+END
+panoramiXext.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/x11/panoramiXext.h
+END
+Xinerama.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/x11/Xinerama.h
+END
+panoramiXproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/x11/panoramiXproto.h
+END
+extutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/x11/extutil.h
+END
+XineramaHelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1959/trunk/src/nativewindow/native/x11/XineramaHelper.c
+END

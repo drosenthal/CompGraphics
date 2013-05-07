@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen
+END
+GlueEmitterControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/GlueEmitterControls.java
+END
+CommentEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/CommentEmitter.java
+END
+CodeGenUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/CodeGenUtils.java
+END
+CMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/CMethodBindingEmitter.java
+END
+JavaMethodBindingEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/JavaMethodBindingEmitter.java
+END
+JavaEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/JavaEmitter.java
+END
+TypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/TypeInfo.java
+END
+ReferencedStructs.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/ReferencedStructs.java
+END
+MethodBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/MethodBinding.java
+END
+ArrayTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/ArrayTypes.java
+END
+StructLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/StructLayout.java
+END
+JavaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/JavaType.java
+END
+DebugEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/DebugEmitter.java
+END
+GlueGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/GlueGen.java
+END
+GlueEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/GlueEmitter.java
+END
+FunctionEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/FunctionEmitter.java
+END
+JavaConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/359/tags/JSR-231-AFTER-RENAME/src/classes/com/sun/gluegen/JavaConfiguration.java
+END

@@ -1,0 +1,672 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+                 
+  <meta content="text/html; charset=windows-1252"
+ http-equiv="Content-Type">
+                 
+  <meta content="MSHTML 5.00.2920.0" name="GENERATOR">
+  <title></title>
+</head>
+  <body bgcolor="#f5f5f5">
+         
+<div align="center"><font color="#005177" size="+2">Welcome to the JOGL API
+   Project! </font></div>
+         
+<table border="0" cellpadding="0" cellspacing="1" width="100%">
+       <tbody>
+       <tr>
+         <td valign="top" width="66%">                                  
+      <table border="0" cellpadding="5" cellspacing="1" height="358"
+ width="100%">
+             <tbody>
+             <tr>
+               <td valign="top">                                        
+                        
+            <table bgcolor="#6E94B7" border="0" cellpadding="5"
+ cellspacing="1" width="100%">
+                   <tbody>
+                   <tr>
+                     <td bgcolor="#6E94B7" valign="top" width="589">    
+                                                                        
+                 
+                  <div align="left"><font color="#ffffff"><strong>Overview</strong></font></div>
+                      </td>
+                    </tr>
+                   <tr>
+                     <td bgcolor="#F8F8F8" valign="top">                
+                                                                        
+     
+                  <div align="justify">                                  
+                                                            
+                  <p>
+
+The JOGL project hosts the development version of the Java&trade;
+Binding for the OpenGL&reg; API (<a
+href="http://jcp.org/en/jsr/detail?id=231">JSR-231</a>), and is
+designed to provide hardware-supported 3D graphics to applications
+written in Java. JOGL provides full access to the APIs in the OpenGL
+2.0 specification as well as nearly all vendor extensions, and
+integrates with the AWT and Swing widget sets. It is part of a suite
+of open-source technologies initiated by the Game Technology Group at
+Sun Microsystems.
+                   </p>
+                   
+                  <p>Please see the <a
+ href="https://jogl-demos.dev.java.net/">JOGL demos</a> for illustrations of
+advanced OpenGL techniques now possible with the Java platform.
+                   </p>
+
+<p>Documentation is available for <a
+href="https://jogl.dev.java.net/unbranded-source/browse/*checkout*/jogl/doc/userguide/index.html?rev=HEAD&content-type=text/html">developers
+wishing to use</a> JOGL in their applications as well as those wishing
+to <a
+href="https://jogl.dev.java.net/unbranded-source/browse/*checkout*/jogl/doc/HowToBuild.html?rev=HEAD&amp;content-type=text/html">build
+the JOGL source tree</a>.
+                   </p>
+                     </div>
+                      </td>
+                    </tr>
+                                                               
+              </tbody>                                                  
+ 
+            </table>
+                </td>
+              </tr>
+                                       
+              <tr>
+               <td>                                                     
+           
+            <table bgcolor="#6E94B7" border="0" cellpadding="5"
+ cellspacing="1" width="100%">
+                   <tbody>
+                   <tr>
+                     <td="#6E94B7" valign="top">                
+                                                                        
+     
+                  <div align="left"><font color="#ffffff"><strong>Downloads</strong></font></div>
+                      </td>
+                    </tr>
+                   <tr>
+                      <td valign="top" bgcolor="#F8F8F8">               
+                                                           
+                  <ul>
+                         <li><a href="#NIGHTLY">Current nightly build</a></li>
+
+                         <li><a
+
+ href="https://jogl.dev.java.net/servlets/ProjectDocumentList?folderID=7333&expandFolder=7333&folderID=6750"
+ target="_blank">Current release build (JSR-231 1.1.0)</a></li>
+
+                         <li><a
+ href="https://jogl.dev.java.net/servlets/ProjectDocumentList"
+ target="_blank">Archived release and pre-release builds</a></li>
+
+                        
+                  </ul>
+                      </td>
+                    </tr>
+                                                               
+              </tbody>                                                  
+ 
+            </table>
+                </td>
+              </tr>
+
+        </tbody>                            
+      </table>
+                                       
+          </td>
+         <td valign="top">                                   
+      <table border="0" cellpadding="5" cellspacing="1" width="100%">
+             <tbody>
+             <tr>
+               <td>                                                     
+           
+            <table bgcolor="#6E94B7" border="0" cellpadding="5"
+ cellspacing="1" width="100%">
+                   <tbody>
+                   <tr>
+                     <td bgcolor="#6E94B7" valign="top">                
+                                                                        
+     
+                  <div align="left"><font color="#ffffff"><strong>Useful
+                   Links</strong></font></div>
+                      </td>
+                    </tr>
+                   <tr>
+                      <td valign="top" bgcolor="#F8F8F8">               
+                                                           
+                  <ul>
+                       <li><a
+ href="http://www.javagaming.org/forums/index.php?board=25.0">JOGL 
+ Forums</a></li>
+                         <li><a href="http://www.opengl.org"
+ target="_blank">OpenGL</a>                        Home</li>
+                        <li><a href="https://jogl-demos.dev.java.net/">JOGL
+ Demos</a></li>
+                       <li><a
+ href="https://jogl.dev.java.net/unbranded-source/browse/*checkout*/jogl/doc/userguide/index.html?rev=HEAD&content-type=text/html">JOGL User's Guide</a></li>
+                        <li><a href="http://netbeans-opengl-pack.dev.java.net/">The NetBeans OpenGL Pack</a></li>
+                        <li><a
+ href="BOF-3908-JOGL-slides.pdf"> JavaOne 2007 BOF Slides on JOGL</a></li>
+                        <li><a
+ href="bof0899.pdf">JavaOne 2006 BOF Slides on JOGL</a></li>
+                        <li><a
+ href="ts1361.pdf">JavaOne 2004 Presentation Slides on JOGL</a></li>
+                        <li><a
+ href="2125.pdf">JavaOne 2003 Presentation Slides on JOGL</a></li>
+                      <li><a
+ href="3167.pdf">JavaOne
+ 2002 Slides</a> on <a href="http://jausoft.com/gl4java/">OpenGL for Java</a><br>
+                      </li>
+                      <li><a
+ href="http://www.sun.com/software/opensource/sca.pdf">Sun Contributor Agreement</a> (<a href="http://www.sun.com/software/opensource/contributor_agreement.jsp">FAQ</a>)<br>
+                      </li>
+                                                                        
+                        
+                  </ul>
+                      </td>
+                    </tr>
+                                                               
+              </tbody>                                                  
+ 
+            </table>
+                </td>
+              </tr>
+                                                 
+        </tbody>                            
+      </table>
+          </td>
+        </tr>
+               
+  </tbody>    
+</table>
+
+<table border="0" cellpadding="0" cellspacing="1" width="100%">
+       <tbody>
+       <tr>
+         <td valign="top" width="100%">                                  
+            <table bgcolor="#6E94B7" border="0" cellpadding="5"
+ cellspacing="1" width="100%">
+                   <tbody>
+                   <tr>
+                     <td bgcolor="#6E94B7" width="589">                 
+                                                                        
+    
+                  <div align="left"><font color="#ffffff"><strong>Featured Projects</strong></font></div>
+                      </td>
+                    </tr>
+                   <tr>
+                     <td bgcolor="#F8F8F8">                             
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tr>
+                  <td>
+The following are a few examples of projects and products using
+JOGL. To have your project featured here, please email the <a
+href="mailto:kbr@dev.java.net">project owners</a>.
+                  </td>
+                  </tr>
+                  </table>
+                  <br>
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                   <tr>
+                   <td bgcolor="#F8F8F8">
+                   <table border="0" cellspacing="15">
+                   <tbody>
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://worldwind.arc.nasa.gov/java/"><img src="worldwind.jpg"
+width="160" height="159" align="left" alt="World Wind">NASA World Wind
+Java</a> provides next-generation 3-D virtual globe technology for
+applications written in the Java programming language. It supplies a
+suite of open-source components that developers include in their own
+applications, providing virtual globe functionality to any application
+that can benefit from it. World Wind Java's components perform as well
+as, or better than, any other known implementation and utilize the
+OpenGL API for 3-D graphics via JOGL. See WWJ Technical Lead Tom
+Gaskins' <a
+href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-3489&yr=2007&track=2">JavaOne
+2007</a> presentation on World Wind Java and the DiSTI Corporation's
+<a href="http://www.simulation.com/javaone/">F-16 flight simulator</a>
+built using World Wind Java.
+
+                   </td>
+                   <td bgcolor="#F8F8F8">
+
+<a href="http://www.madlix.com"><img src="madlix.png" width="160"
+height="160" align="left" alt="Madlix">MADLIX</a> lets users insert
+3D-content in web pages, blogs, Google pages, community presentations
+and more. MADLIX is JOGL-powered and runs smoothly inside all
+Java-enabled browsers, with no need for custom plug-ins or application
+installation. The <a href="http://www.madlix.com">on-line gallery</a>
+features high-quality content ready for insertion. MADLIX is
+accompanied by the MADLIX exporter tool enabling 3D artists to
+directly export their 3D artwork from Autodesk Maya to the MADLIX
+gallery. The exporter features pre-view functionality as well as a
+standalone viewer, supporting the MADLIX file format and the open
+standard file format COLLADA.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://bytonic.de/html/jake2.html"><img src="jake2.jpg"
+width="160" height="128" align="left" alt="Jake2">Jake2</a> is a port
+of id Software's GPL'd Quake II engine from C to Java done by <a
+href="http://bytonic.de/">bytonic software</a>. You can run the game
+via <a href="http://bytonic.de/html/jake2_webstart.html">Java Web
+Start</a> with <b>no manual installation</b> on all of JOGL's
+supported platforms.
+
+                   </td>
+                   <td bgcolor="#F8F8F8">
+
+<a href="http://www.nascar.com/trackpass/about/raceview/"><img
+src="raceview.jpg" width="160" height="92" align="left">RaceView</a>
+from NASCAR / NEXTEL, part of the <a
+href="http://www.nascar.com/trackpass/">TrackPass</a> package, puts
+you in the race. Control the virtual camera angle, listen to the
+driver and team, and see crucial statistics and times, all in real
+time as the race goes on. RaceView uses JOGL for its 3D rendering.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+
+<a href="http://apps.facebook.com/sharendipity/"><img
+src="sharendipity.gif" width="160" height="160"
+align="left">Sharendipity</a> enables creative people to build and
+distribute software regardless of their programming prowess. Its goal
+is to provide a basic platform with which users can build and share a
+broad array of application components in such a way that they can be
+extended, interchanged and plugged together to build full
+applications. The authors anticipate a market to evolve around these
+components where users can buy and sell their creations - whether it
+is a full application, a unique effect, or an individual object
+behavior. Sharendipity is currently deployed via Java within the
+Facebook platform and uses JOGL for hardware accelerated rendering.
+
+                   </td>
+                   <td bgcolor="#F8F8F8">
+
+<a href="http://www.codededge.com"><img src="elflight.png" width="160"
+height="160" align="left">The Elflight Engine</a> is a high
+performance 3D streaming game engine. It has been designed from the
+ground up for use over the World Wide Web. The streaming aspect of the
+engine allows a near "instant play" experience for the gamer. No
+massive downloads and no massive updates! The technology is
+particularly well suited to the development of MMOs and virtual
+worlds. The Elflight Engine uses JOGL to access the OpenGL API.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://www.fusion-laboratory.de/"><img
+src="fusion-laboratory.jpg" width="160" height="160" align="left"
+alt="Fusion Laboratory">The Fusion Framework</a> enables Swing
+components to be extended with 3D content via JOGL. In general the 3D
+content will show up in layers on top of the corresponding Swing
+component. Many utility functions are integrated to help the developer
+build components. For example, the 3D content may be calibrated to the
+corresponding component's bounds. In addition, the system provides a
+simple scenegraph, Swing-like mouse interaction, and low-level
+animation support, as well as GLSL shaders and .obj file loading. The
+demo page contains several Java Web Start applications which
+demonstrate the abilities of the framework; please fill out the web
+form to help evaluate the components' usefulness.
+
+                   </td>
+                   <td bgcolor="#F8F8F8">
+
+<a href="http://netbeans-opengl-pack.dev.java.net/"><img
+src="nb-opengl-pack.jpg" width="160" height="63" align="left">The
+NetBeans OpenGL Pack</a> provides an easy to use OpenGL development
+environment integrated into NetBeans. It supplies modules like an GLSL
+shader editor, hardware compiler/linker integration and tools for
+displaying hardware information. The pack ships ready to run JOGL (JSR
+231) demo projects and all OpenGL samples of the OpenGL Programming
+Guide (also known as the Red Book).
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://www.shwup.com/"><img src="shwup.jpg" width="160"
+height="160" align="left" alt="Shwup">Shwup</a> is a new P2P toy for
+sharing photos that uses JOGL for all its rendering. Photos and text
+that you drag-and-drop into it instantly shows up and gets teleported
+to other users across the world running Shwup. Accompanying your
+photos are slick 3D motion graphics that dance to the beats of the
+music that you're playing. Welcome to Post-Modern P2P Broadcasting!
+
+                   </td>
+                   <td bgcolor="#F8F8F8">
+
+<a href="http://www.artofillusion.org/"><img src="artofillusion.jpg"
+width="160" height="117" align="left" alt="Art Of Illusion">Art of
+Illusion</a> is a free, open source 3D modelling and rendering
+studio. Many of its capabilities rival those found in commercial
+programs. Some of the highlights include subdivision surface based
+modelling tools, skeleton based animation, and a graphical language
+for designing procedural textures and materials. It uses JOGL for
+real-time OpenGL rendering in its modeling views.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://www.avengina.org/"><img src="avengina.jpg"
+alt="Avengina" align="left" height="99" width="160">Avengina</a> is a
+realtime 3D graphics engine which is designed for the execution as a
+Java applet. Alternatively it can be launched as a Java Webstart
+application outside the browserwindow. The software provides the
+possibility to exhibit texts and images in virtual
+galleries. Regarding the control and behaviour of the avatar it's
+redolent of a game engine. The graphics rendering system bases on
+per-pixel lighting and supports normal mapping, specular lighting and
+stencil volume shadows. Avengina uses JOGL for realtime rendering.
+
+                   </td>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://chronotext.org/"><img src="chronotext.jpg" width="160"
+height="120" align="left" alt="chronotext">chronotext</a> is a series
+of visual design experiments involving animated text and 3D objects
+and surfaces. Several examples can be run on-line via <a
+href="http://chronotext.org/scriptorium/behind/index.htm">Java Web
+Start</a>. See the <a href="http://www.chronotext.org/mapping/">latest
+experiments</a> of mapping text on to real 3D surfaces.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://jsolutions.se/DukeBeanEm/"><img src="dukebeanem.jpg"
+width="160" height="120" align="left" alt="Duke Bean'Em">Duke
+Bean'Em</a> is the demonstration program from Erik Hellman's <a
+href="http://developers.sun.com/learning/javaoneonline/j1sessn.jsp?sessn=TS-3073&yr=2007&track=2">JavaOne
+2007 technical session</a>. This presentation demonstrates how you can
+write a simple 3-D game by using the Java programming language, JOGL,
+and free tools and 3-D models. It also covers the basics of OpenGL and
+3-D graphics as well as various technologies, libraries, tools, and
+patterns that are useful for 3-D application development on the Java
+platform.
+
+                   </td>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://www.fenggui.org/"><img src="fenggui.jpg" width="160"
+height="127" align="left" alt="FengGUI">FengGUI</a> is a graphical
+user interface (GUI) application programming interface (API) based on
+OpenGL. FengGUI provides all typical GUI components like buttons,
+sliders, trees, text areas, frames, tabs, etc. which are required to
+build a complete GUI system. Since it is based on OpenGL, FengGUI fits
+well in multimedia and game environments.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a
+href="http://www.simulation.com/products/glstudio/glstudio.html"><img
+src="glstudio.jpg" width="160" height="135" align="left" alt="GL
+Studio">GL Studio</a> is an object oriented rapid application
+development tool that allows a user to graphically combine
+photographs, 3D models and behavior logic to create advanced 2D and 3D
+human machine interfaces.  GL Studio generates Java or C++ source code
+which can then be integrated into the user’s application as a user
+interface. <a
+href="http://www.simulation.com/products/glstudio/java/java.html">Java
+code</a> generated with GL Studio can be deployed using
+javax.swing.JPanel, java.awt.Canvas and JavaBeans. GL Studio uses
+OpenGL for rendering and GL Studio for Java uses the JOGL API.
+
+                   </td>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://impact.sourceforge.net/"><img src="impact.jpg"
+width="160" height="129" align="left" alt="Impact">Impact</a> is a
+complete finite element suite including preprocessor, solver and
+postprocessor which is useable for simulating dynamic events such as
+car crashes or stamping of metal sheets. The suite allows 3D
+modelling, solving and viewing of simulation results, all in OpenGL
+accelerated graphics through the use of JOGL.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://www.javapause.com/"><img src="jackflowers.jpg"
+width="160" height="120" align="left" alt="Jack Flowers">Jack
+Flowers</a> is a 3D platform action and adventure game under
+development. Jack is a flower collector (a kind of mutant beetle) who
+loves flowers so much that he can't help collecting them. Your goal
+through the game is to help Jack pick up flowers to progress through
+vegetal levels.
+
+                   </td>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://mbt.sdsc.edu/"><img src="mbt.jpg" width="160"
+height="122" align="left"></a>The <a
+href="http://mbt.sdsc.edu/">Molecular Biology Toolkit</a> is a
+Java-based protein visualization and analysis toolkit. The toolkit
+provides classes for efficiently loading, managing and manipulating
+protein structure and sequence data. The MBT also provides a rich set
+of graphical 3D and 2D visualization components which can be easily
+"plugged together" to produce applications having sophisticated
+graphical user interfaces. Some MBT-based visualization tools are <a
+href="http://www.pdb.org/">ProteinWorkshop</a> (<a
+href="http://spdc.sdsc.edu/iedb/protein_workshop/viewer7.php">webstart
+demo</a>), <a href="http://www.immuneepitope.org/">EpitopeViewer</a>
+(<a
+href="http://spdc.sdsc.edu/iedb/epitopeViewer/viewer_jogl333.php">webstart
+demo</a>), and <a href="http://sirius.sdsc.edu/">Sirius</a>.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://processing.org/"><img src="processing.jpg" width="160"
+height="158" align="left" alt="processing">Processing</a> is an open
+source programming language and environment for people who want to
+program images, animation, and sound. It is used by students, artists,
+designers, architects, researchers, and hobbyists for learning,
+prototyping, and production. Processing is developed by artists and
+designers as an alternative to proprietary software tools in the same
+domain. It uses JOGL for its hardware accelerated 3D rendering
+support.
+
+                   </td>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://www.specknet.org/dev/specksim"><img src="specksim.jpg"
+width="160" height="117" align="left" alt="SpeckSim">SpeckSim</a> is a
+behaviour-level simulator for networks of small, resource-constrained
+devices with sensing, computation and communication
+capabilities. Intended as a testbed for distributed algorithms, the
+main design goal was ease of extension. To this end, almost all aspect
+of the simulator can be customised: Node behaviour, communication
+characteristics, placement and motion; visualisation rendering and
+interaction and statistic generation.
+
+                   </td>
+                   </tr>
+
+                   <tr>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://3d-alignment.eu"><img src="strap.jpg" width="160"
+height="118" align="left"></a>With <a
+href="http://3d-alignment.eu">STRAP</a> you can align your proteins by
+sequence and 3D-structure.  STRAP simultaneously displays
+3d-structures, amino acid sequence alignment and nucleotide sequences.
+It has powerful annotation features.
+
+                   </td>
+                   <td bgcolor="#F8F8F8" width="50%">
+
+<a href="http://www.vlsolutions.com/"><img src="vldocking.jpg"
+width="160" height="113" align="left" alt="VLDocking">VLDocking</a> is
+a set of Java components that helps the Swing developer to build
+applications with Docking capabilities, and even raise existing
+applications to higher standards. It supports docking via drag and
+drop, enhanced toolbars, closable tabs, and more. It fully supports
+heavyweight components such as JOGL's GLCanvas in a docking
+environment.
+
+                   </td>
+                   </tr>
+
+                   </tbody>
+                   </table>
+            </tbody>
+            </table>
+        </td>
+        </tr>
+</tbody>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="1" width="100%">
+       <tbody>
+       <tr>
+         <td valign="top" width="100%">                                  
+            <table bgcolor="#6E94B7" border="0" cellpadding="5"
+ cellspacing="1" width="100%">
+                   <tbody>
+                   <tr>
+                     <td bgcolor="#6E94B7" width="589">                 
+                                                                        
+    
+                  <div align="left"><font color="#ffffff"><strong><a name="NIGHTLY">Current nightly build</a></strong></font></div>
+                      </td>
+                    </tr>
+                   <tr>
+                     <td bgcolor="#F8F8F8">                             
+
+<!- BEGIN NIGHTLY -->
+<TABLE CELLPADDING=3>
+<TR> <TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/javadoc_public/>Browsable javadoc</A></TD></TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/javadoc_public.zip> javadoc_public.zip  </A></TD>
+<TD>  1086293  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-linux-amd64.zip> jogl-1.1.1-rc8-linux-amd64.zip  </A></TD>
+<TD>  1311786  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-linux-i586.zip> jogl-1.1.1-rc8-linux-i586.zip  </A></TD>
+<TD>  1287346  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-macosx-ppc.zip> jogl-1.1.1-rc8-macosx-ppc.zip  </A></TD>
+<TD>  1194063  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-macosx-universal.zip> jogl-1.1.1-rc8-macosx-universal.zip  </A></TD>
+<TD>  1318548  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-solaris-amd64.zip> jogl-1.1.1-rc8-solaris-amd64.zip  </A></TD>
+<TD>  1250525  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-solaris-i586.zip> jogl-1.1.1-rc8-solaris-i586.zip  </A></TD>
+<TD>  1292998  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-solaris-sparcv9.zip> jogl-1.1.1-rc8-solaris-sparcv9.zip  </A></TD>
+<TD>  1273436  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-solaris-sparc.zip> jogl-1.1.1-rc8-solaris-sparc.zip  </A></TD>
+<TD>  1284084  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-src.zip> jogl-1.1.1-rc8-src.zip  </A></TD>
+<TD>  2289598  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-webstart.zip> jogl-1.1.1-rc8-webstart.zip  </A></TD>
+<TD>  2812631  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-windows-amd64.zip> jogl-1.1.1-rc8-windows-amd64.zip  </A></TD>
+<TD>  1136606  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-1.1.1-rc8-windows-i586.zip> jogl-1.1.1-rc8-windows-i586.zip  </A></TD>
+<TD>  1119761  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-demos-src.zip> jogl-demos-src.zip  </A></TD>
+<TD>  9850877  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-demos-data.jar> jogl-demos-data.jar  </A></TD>
+<TD>  7994010  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-demos.jar> jogl-demos.jar  </A></TD>
+<TD>  352540  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+<TR>
+<TD> <A HREF=http://download.java.net/media/jogl/builds/nightly/jogl-demos-util.jar> jogl-demos-util.jar  </A></TD>
+<TD>  130798  bytes </TD>
+<TD>  2008-02-22 03:00  </TD>
+</TR>
+</TABLE>
+<!- END NIGHTLY -->
+    </td>
+    </tr>
+    </table>
+
+</td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>

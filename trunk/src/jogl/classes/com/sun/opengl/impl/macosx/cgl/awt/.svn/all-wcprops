@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/impl/macosx/cgl/awt
+END
+MacOSXJava2DCGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/impl/macosx/cgl/awt/MacOSXJava2DCGLContext.java
+END
+MacOSXAWTCGLGraphicsConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/impl/macosx/cgl/awt/MacOSXAWTCGLGraphicsConfigurationFactory.java
+END
+MacOSXAWTCGLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/com/sun/opengl/impl/macosx/cgl/awt/MacOSXAWTCGLDrawableFactory.java
+END

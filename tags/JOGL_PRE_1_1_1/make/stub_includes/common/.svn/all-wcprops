@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/make/stub_includes/common
+END
+glu-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/make/stub_includes/common/glu-impl.c
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/make/stub_includes/common/glu.c
+END
+cg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/make/stub_includes/common/cg.c
+END
+gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/make/stub_includes/common/gl.c
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/make/stub_includes/common/stddef.h
+END
+gl-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/make/stub_includes/common/gl-impl.c
+END

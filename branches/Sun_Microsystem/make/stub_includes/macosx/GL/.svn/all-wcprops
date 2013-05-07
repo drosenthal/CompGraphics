@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/GL
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/GL/glext.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/GL/glxext.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/GL/glu.h
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/GL/wglext.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/4/branches/Sun_Microsystem/make/stub_includes/macosx/GL/gl.h
+END

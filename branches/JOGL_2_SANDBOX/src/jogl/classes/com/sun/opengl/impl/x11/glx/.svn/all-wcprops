@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1949/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx
+END
+X11GLXGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jogl~svn/!svn/ver/1932/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11GLXGraphicsConfiguration.java
+END
+X11OffscreenGLXContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11OffscreenGLXContext.java
+END
+X11OnscreenGLXContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11OnscreenGLXContext.java
+END
+X11ExternalGLXContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1920/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11ExternalGLXContext.java
+END
+X11OffscreenGLXDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jogl~svn/!svn/ver/1919/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11OffscreenGLXDrawable.java
+END
+X11OnscreenGLXDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11OnscreenGLXDrawable.java
+END
+X11ExternalGLXDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/jogl~svn/!svn/ver/1920/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11ExternalGLXDrawable.java
+END
+X11GLXGraphicsConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jogl~svn/!svn/ver/1949/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11GLXGraphicsConfigurationFactory.java
+END
+X11PbufferGLXDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11PbufferGLXDrawable.java
+END
+X11GLXDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11GLXDrawable.java
+END
+GLXUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/GLXUtil.java
+END
+X11PbufferGLXContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jogl~svn/!svn/ver/1929/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11PbufferGLXContext.java
+END
+X11GLXContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11GLXContext.java
+END
+X11GLXDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jogl~svn/!svn/ver/1943/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/impl/x11/glx/X11GLXDrawableFactory.java
+END

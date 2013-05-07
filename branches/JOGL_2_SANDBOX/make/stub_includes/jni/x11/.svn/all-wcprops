@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/x11
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/x11/jni_md.h
+END
+jawt_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1664/branches/JOGL_2_SANDBOX/make/stub_includes/jni/x11/jawt_md.h
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types
+END
+TypeDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/TypeDictionary.java
+END
+FunctionSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/FunctionSymbol.java
+END
+VoidType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/VoidType.java
+END
+DoubleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/DoubleType.java
+END
+CVAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/CVAttributes.java
+END
+IntType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/IntType.java
+END
+BitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/BitType.java
+END
+CompoundType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/CompoundType.java
+END
+PrimitiveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/PrimitiveType.java
+END
+EnumType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/EnumType.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/Type.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/Field.java
+END
+MachineDescription32Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/MachineDescription32Bit.java
+END
+CompoundTypeKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/CompoundTypeKind.java
+END
+PointerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/PointerType.java
+END
+FloatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/FloatType.java
+END
+MachineDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/MachineDescription.java
+END
+TypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/TypeVisitor.java
+END
+ArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/ArrayType.java
+END
+FunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/182/tags/JOGL-1_1_b07/src/net/java/games/gluegen/cgram/types/FunctionType.java
+END

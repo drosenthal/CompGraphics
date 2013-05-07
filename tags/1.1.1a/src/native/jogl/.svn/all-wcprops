@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl
+END
+Xinerama.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/Xinerama.c
+END
+panoramiXext.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/panoramiXext.h
+END
+ContextUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/ContextUpdater.h
+END
+MacOSXWindowSystemInterface.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/MacOSXWindowSystemInterface.m
+END
+Xinerama.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/Xinerama.h
+END
+panoramiXproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/panoramiXproto.h
+END
+ContextUpdater.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/ContextUpdater.m
+END
+InternalBufferUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/InternalBufferUtils.c
+END
+extutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/extutil.h
+END
+JAWT_DrawingSurfaceInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/JAWT_DrawingSurfaceInfo.c
+END
+XineramaHelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jogl~svn/!svn/ver/1997/tags/1.1.1a/src/native/jogl/XineramaHelper.c
+END

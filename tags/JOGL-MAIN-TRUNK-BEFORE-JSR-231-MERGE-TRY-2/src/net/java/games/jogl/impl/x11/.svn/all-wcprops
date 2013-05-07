@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/net/java/games/jogl/impl/x11
+END
+X11SunJDKReflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/net/java/games/jogl/impl/x11/X11SunJDKReflection.java
+END
+X11GLContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/net/java/games/jogl/impl/x11/X11GLContextFactory.java
+END
+X11OffscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/net/java/games/jogl/impl/x11/X11OffscreenGLContext.java
+END
+X11OnscreenGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/net/java/games/jogl/impl/x11/X11OnscreenGLContext.java
+END
+X11GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/net/java/games/jogl/impl/x11/X11GLContext.java
+END
+X11PbufferGLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jogl~svn/!svn/ver/395/tags/JOGL-MAIN-TRUNK-BEFORE-JSR-231-MERGE-TRY-2/src/net/java/games/jogl/impl/x11/X11PbufferGLContext.java
+END

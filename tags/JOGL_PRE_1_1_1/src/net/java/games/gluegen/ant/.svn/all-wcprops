@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/gluegen/ant
+END
+GlueGenTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/gluegen/ant/GlueGenTask.java
+END
+StaticGLGenTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jogl~svn/!svn/ver/316/tags/JOGL_PRE_1_1_1/src/net/java/games/gluegen/ant/StaticGLGenTask.java
+END

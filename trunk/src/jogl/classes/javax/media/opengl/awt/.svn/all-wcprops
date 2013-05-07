@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/javax/media/opengl/awt
+END
+AWTGLAutoDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/awt/AWTGLAutoDrawable.java
+END
+GLJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/javax/media/opengl/awt/GLJPanel.java
+END
+GLCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/awt/GLCanvas.java
+END
+ComponentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/awt/ComponentEvents.java
+END

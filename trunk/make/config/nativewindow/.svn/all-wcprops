@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jogl~svn/!svn/ver/1976/trunk/make/config/nativewindow
+END
+jawt-macosx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/nativewindow/jawt-macosx.cfg
+END
+jawt-x11.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/nativewindow/jawt-x11.cfg
+END
+x11-lib.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/nativewindow/x11-lib.cfg
+END
+jawt-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/1976/trunk/make/config/nativewindow/jawt-CustomJavaCode.java
+END
+jawt-win32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/nativewindow/jawt-win32.cfg
+END
+jawt-DrawingSurfaceInfo-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/nativewindow/jawt-DrawingSurfaceInfo-CustomJavaCode.java
+END
+x11-CustomJavaCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jogl~svn/!svn/ver/1959/trunk/make/config/nativewindow/x11-CustomJavaCode.java
+END
+x11-CustomCCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/1974/trunk/make/config/nativewindow/x11-CustomCCode.c
+END

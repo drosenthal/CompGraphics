@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/glu
+END
+GLUtessellatorCallbackAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/glu/GLUtessellatorCallbackAdapter.java
+END
+GLUtessellatorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/glu/GLUtessellatorCallback.java
+END
+GLUnurbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/glu/GLUnurbs.java
+END
+GLUtessellator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/glu/GLUtessellator.java
+END
+GLUquadric.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/glu/GLUquadric.java
+END

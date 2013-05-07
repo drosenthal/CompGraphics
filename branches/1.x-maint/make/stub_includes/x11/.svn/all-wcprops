@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/x11
+END
+window-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/x11/window-system.c
+END
+glxext.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/x11/glxext.c
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/x11/jni_md.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jogl~svn/!svn/ver/1993/branches/1.x-maint/make/stub_includes/x11/jni.h
+END

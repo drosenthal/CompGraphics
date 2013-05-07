@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG
+END
+cg_bindlocations.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG/cg_bindlocations.h
+END
+cg_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG/cg_errors.h
+END
+cgGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG/cgGL.h
+END
+cgGL_profiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG/cgGL_profiles.h
+END
+cg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG/cg.h
+END
+cg_datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG/cg_datatypes.h
+END
+cg_profiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jogl~svn/!svn/ver/94/tags/jogl-1-0/make/stub_includes/cg/CG/cg_profiles.h
+END

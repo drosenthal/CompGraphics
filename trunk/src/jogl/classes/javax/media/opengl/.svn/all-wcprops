@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/javax/media/opengl
+END
+GLPbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLPbuffer.java
+END
+GLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/javax/media/opengl/GLContext.java
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLException.java
+END
+GLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLEventListener.java
+END
+GLDrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/javax/media/opengl/GLDrawableFactory.java
+END
+GLProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1988/trunk/src/jogl/classes/javax/media/opengl/GLProfile.java
+END
+GLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLDrawable.java
+END
+GLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLCapabilitiesChooser.java
+END
+DefaultGLCapabilitiesChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/DefaultGLCapabilitiesChooser.java
+END
+GLArrayData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLArrayData.java
+END
+GLCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLCapabilities.java
+END
+GLUniformData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLUniformData.java
+END
+Threading.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/Threading.java
+END
+GLBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jogl~svn/!svn/ver/1959/trunk/src/jogl/classes/javax/media/opengl/GLBase.java
+END
+GLAutoDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jogl~svn/!svn/ver/2018/trunk/src/jogl/classes/javax/media/opengl/GLAutoDrawable.java
+END

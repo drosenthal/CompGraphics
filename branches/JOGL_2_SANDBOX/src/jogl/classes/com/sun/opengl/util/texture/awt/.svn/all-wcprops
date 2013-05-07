@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/awt
+END
+AWTTextureData.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jogl~svn/!svn/ver/1922/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/awt/AWTTextureData.java
+END
+AWTTextureIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jogl~svn/!svn/ver/1872/branches/JOGL_2_SANDBOX/src/jogl/classes/com/sun/opengl/util/texture/awt/AWTTextureIO.java
+END
